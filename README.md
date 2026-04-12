@@ -1,22 +1,22 @@
-# Available .TAX One-Word Domains (5,622,049)
+# Available .TAX One-Word Domains (8,964)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C960%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C049%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C963%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C964%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .tax one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,960-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,049 domains** on the canonical page below.
+> **Important:** this repository is a **public 8,963-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,964 domains** on the canonical page below.
 
-**Public extract:** 8,960 rows · **Live catalog:** 5,622,049 domains
+**Public extract:** 8,963 rows · **Live catalog:** 8,964 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/tax`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TAX one-word domain c
 
 ### Files
 
-- `tax.csv` — public CSV extract (8,960 rows)
-- `tax.json` — public JSON extract (8,960 rows)
+- `tax.csv` — public CSV extract (8,963 rows)
+- `tax.json` — public JSON extract (8,963 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,15 +67,15 @@ print(df.head())
 | content.tax   | available | $14.99    | $92.99        | 138            | 40     | 7      | name.com                                            |
 | down.tax      | resell    | $14.99    | $92.99        | 76             | 21     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | blue.tax      | premium   | $85.80    | $85.80        | 82             | 59     | 4      | namecheap                                           |
-| eternal.tax   | available | $14.99    | $92.99        | 92             | 40     | 7      | name.com                                            |
-| ally.tax      | resell    | —         | —             | 68             | 85     | 4      | DNSPod, Inc.                                        |
-| live.tax      | premium   | $123.75   | $123.75       | 108            | 55     | 4      | name.com                                            |
 | mark.tax      | available | $14.99    | $92.99        | 66             | 40     | 4      | name.com                                            |
+| ally.tax      | resell    | —         | —             | 68             | 85     | 4      | DNSPod, Inc.                                        |
+| live.tax      | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com                                            |
+| dark.tax      | available | $14.99    | $92.99        | 52             | 40     | 4      | name.com                                            |
 | box.tax       | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                        |
 | marketing.tax | premium   | $123.75   | —             | 78             | 49     | 9      | name.com                                            |
-| dark.tax      | available | $14.99    | $92.99        | 52             | 40     | 4      | name.com                                            |
+| eternal.tax   | available | $14.99    | $92.99        | 92             | 39     | 7      | name.com                                            |
 | boss.tax      | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc.                                        |
-| hotel.tax     | premium   | $1,040    | $1,040        | 70             | 46     | 5      | namecheap                                           |
+| hotel.tax     | premium   | $1,040    | $1,040        | 70             | 45     | 5      | namecheap                                           |
 | forge.tax     | available | $14.99    | $92.99        | 62             | 39     | 5      | name.com                                            |
 | get.tax       | resell    | —         | —             | 88             | 69     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | food.tax      | premium   | $85.80    | $85.80        | 94             | 44     | 4      | namecheap                                           |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,960-row public sample | 5,622,049 live domains                           |
+| 8,963-row public sample | 8,964 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
