@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tax one-word domains from 
 
 **Public extract:** 8,963 rows · **Live catalog:** 8,964 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tax`  
 **Best for:** founders, investors, studios
 
@@ -64,22 +64,22 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| content.tax   | available | $14.99    | $92.99        | 138            | 40     | 7      | name.com                                            |
+| mark.tax      | available | $14.99    | $92.99        | 66             | 40     | 4      | name.com                                            |
 | down.tax      | resell    | $14.99    | $92.99        | 76             | 21     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | blue.tax      | premium   | $85.80    | $85.80        | 82             | 59     | 4      | namecheap                                           |
-| mark.tax      | available | $14.99    | $92.99        | 66             | 40     | 4      | name.com                                            |
+| dark.tax      | available | $14.99    | $92.99        | 52             | 40     | 4      | name.com                                            |
 | ally.tax      | resell    | —         | —             | 68             | 85     | 4      | DNSPod, Inc.                                        |
 | live.tax      | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com                                            |
-| dark.tax      | available | $14.99    | $92.99        | 52             | 40     | 4      | name.com                                            |
+| content.tax   | available | $14.99    | $92.99        | 138            | 39     | 7      | name.com                                            |
 | box.tax       | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                        |
 | marketing.tax | premium   | $123.75   | —             | 78             | 49     | 9      | name.com                                            |
-| eternal.tax   | available | $14.99    | $92.99        | 92             | 39     | 7      | name.com                                            |
+| gather.tax    | available | $14.99    | $92.99        | 96             | 39     | 6      | name.com                                            |
 | boss.tax      | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc.                                        |
 | hotel.tax     | premium   | $1,040    | $1,040        | 70             | 45     | 5      | namecheap                                           |
-| forge.tax     | available | $14.99    | $92.99        | 62             | 39     | 5      | name.com                                            |
+| eternal.tax   | available | $14.99    | $92.99        | 92             | 39     | 7      | name.com                                            |
 | get.tax       | resell    | —         | —             | 88             | 69     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | food.tax      | premium   | $85.80    | $85.80        | 94             | 44     | 4      | namecheap                                           |
-| gather.tax    | available | $14.99    | $92.99        | 96             | 38     | 6      | name.com                                            |
+| forge.tax     | available | $14.99    | $92.99        | 62             | 39     | 5      | name.com                                            |
 | easy.tax      | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.                                     |
 | insurance.tax | premium   | $1,040    | $1,040        | 76             | 44     | 9      | namecheap                                           |
 | conscious.tax | available | $14.99    | $92.99        | 89             | 38     | 9      | name.com                                            |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
