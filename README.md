@@ -1,22 +1,22 @@
-# Available .TAX One-Word Domains (8,963)
+# Available .TAX One-Word Domains (11,459)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C964%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C963%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C459%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .tax one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .tax one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,459 domains** on the canonical page below.
 
-**Public extract:** 8,964 rows · **Live catalog:** 8,963 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,459 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/tax`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TAX one-word domain c
 
 ### Files
 
-- `tax.csv` — public CSV extract (8,964 rows)
-- `tax.json` — public JSON extract (8,964 rows)
+- `tax.csv` — public CSV extract (1,000 rows)
+- `tax.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| mark.tax      | available | $14.99    | $92.99        | 66             | 40     | 4      | name.com                                            |
-| down.tax      | resell    | $14.99    | $92.99        | 76             | 21     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| blue.tax      | premium   | $85.80    | $85.80        | 82             | 59     | 4      | namecheap                                           |
-| dark.tax      | available | $14.99    | $92.99        | 52             | 40     | 4      | name.com                                            |
-| ally.tax      | resell    | —         | —             | 68             | 85     | 4      | DNSPod, Inc.                                        |
-| live.tax      | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com                                            |
-| content.tax   | available | $14.99    | $92.99        | 138            | 39     | 7      | name.com                                            |
-| box.tax       | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                        |
-| marketing.tax | premium   | $123.75   | —             | 78             | 49     | 9      | name.com                                            |
-| gather.tax    | available | $14.99    | $92.99        | 96             | 39     | 6      | name.com                                            |
-| boss.tax      | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc.                                        |
-| hotel.tax     | premium   | $1,040    | $1,040        | 70             | 45     | 5      | namecheap                                           |
-| eternal.tax   | available | $14.99    | $92.99        | 92             | 39     | 7      | name.com                                            |
-| get.tax       | resell    | —         | —             | 88             | 69     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| food.tax      | premium   | $85.80    | $85.80        | 94             | 44     | 4      | namecheap                                           |
-| forge.tax     | available | $14.99    | $92.99        | 62             | 39     | 5      | name.com                                            |
-| easy.tax      | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.                                     |
-| insurance.tax | premium   | $1,040    | $1,040        | 76             | 44     | 9      | namecheap                                           |
-| conscious.tax | available | $14.99    | $92.99        | 89             | 38     | 9      | name.com                                            |
-| flow.tax      | resell    | —         | —             | 96             | 67     | 4      | DNSPod, Inc.                                        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| shortcuts.tax    | available | $14.99    | —             | 48             | 41     | 10     | name.com                                     |
+| tokens.tax       | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc                                  |
+| systems.tax      | premium   | $123.75   | —             | 46             | 27     | 7      | name.com                                     |
+| matcha.tax       | available | $14.99    | —             | 86             | 39     | 6      | name.com                                     |
+| etc.tax          | resell    | —         | —             | 58             | 34     | 3      | Sav.com, LLC - 39                            |
+| states.tax       | premium   | $87.99    | —             | 70             | 16     | 6      | name.com                                     |
+| justin.tax       | available | $14.99    | —             | 58             | 38     | 7      | name.com                                     |
+| doctors.tax      | resell    | —         | —             | 56             | 26     | 7      | Sav.com, LLC - 30                            |
+| Vehicles.tax     | premium   | $280      | $280          | 49             | 13     | 8      | namecheap                                    |
+| teams.tax        | available | $14.99    | —             | 62             | 32     | 5      | name.com                                     |
+| pros.tax         | resell    | —         | —             | 53             | 23     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| gives.tax        | premium   | $123.75   | —             | 52             | 12     | 5      | name.com                                     |
+| trends.tax       | available | $14.99    | —             | 60             | 32     | 6      | name.com                                     |
+| accounts.tax     | resell    | —         | —             | 54             | 19     | 8      | DNSPod, Inc.                                 |
+| OrangeCounty.tax | premium   | $138.60   | $138.60       | 66             | 11     | 13     | namecheap                                    |
+| rewards.tax      | available | $14.99    | —             | 62             | 30     | 7      | name.com                                     |
+| leasing.tax      | resell    | —         | —             | 70             | 17     | 7      | Name.com, Inc.                               |
+| fees.tax         | premium   | $87.99    | —             | 63             | 11     | 4      | name.com                                     |
+| spaces.tax       | available | $14.99    | —             | 54             | 30     | 6      | name.com                                     |
+| dollars.tax      | resell    | —         | —             | 64             | 12     | 7      | GoDaddy.com, LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,964-row public sample | 8,963 live domains                               |
+| 1,000-row public sample | 11,459 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
