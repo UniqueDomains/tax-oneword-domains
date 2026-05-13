@@ -149,6 +149,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0d641bdc-2008-4b03-acc7-e85d935ebcc7,getsomeair.tax,available,14.99,,77,1,12,name.com,,
 0d7e3a83-fee7-45c2-bf11-e9321307b007,divein.tax,available,14.99,,76,9,7,name.com,,
 0d93e855-2ff0-4ce5-879e-cd7c99f2faf3,keepback.tax,available,14.99,,70,2,9,name.com,,
+0dd87d38-752a-4ff7-adf3-faed31fa4941,everyday.tax,premium,,,84,36,8,,,
 0ddab496-1296-4609-be37-71d5dae5de0c,reservations.tax,available,14.99,,50,17,12,name.com,,
 0e002bdc-3978-42ea-a3c4-994fd4dd7658,resorted.tax,available,14.99,,50,1,8,name.com,,
 0e14d196-7802-4bbb-8a49-9f87aaa1f2b1,parkingfine.tax,available,14.99,,46,2,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a7ad3b5-f193-45b5-826f-7fbdba5bbbd7,precautions.tax,available,14.99,,48,2,11,name.com,,
 5a977a2c-8a05-462b-a011-64b514637329,smashup.tax,available,14.99,,58,5,8,name.com,,
 5a9aaf63-e1f5-4cb3-9941-3b2aeac8872f,notebooks.tax,available,14.99,,56,9,9,name.com,,
-5acbd7da-ad39-4afe-9aa3-f7bee0fca235,communities.tax,available,14.99,,68,19,11,name.com,,
