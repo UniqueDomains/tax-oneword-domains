@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tax one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,749 domains · **Median ask:** $16.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/tax`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| half.tax  | available | $14.99    | —             | high           | low    | 4      | name.com                                            |
-| bow.tax   | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
-| act.tax   | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| dog.tax   | premium   | $250      | —             | high           | low    | 3      | name.com                                            |
-| CNN.tax   | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
-| arc.tax   | resell    | —         | —             | medium         | medium | 3      | DNSPod, Inc.                                        |
-| arab.tax  | premium   | $118.80   | $118.80       | low            | low    | 4      | namesilo                                            |
-| coy.tax   | available | $14.99    | $92.99        | medium         | low    | 3      | name.com                                            |
-| our.tax   | resell    | —         | —             | medium         | medium | 3      | DNSPod, Inc.                                        |
-| post.tax  | premium   | $854      | $854          | high           | medium | 4      | namesilo                                            |
-| cue.tax   | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
-| sun.tax   | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
-| adult.tax | premium   | $123.75   | $123.75       | high           | low    | 5      | name.com                                            |
-| don.tax   | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
-| wiz.tax   | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| great.tax | premium   | $242      | $242          | high           | low    | 5      | namesilo                                            |
-| eye.tax   | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
-| arch.tax  | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| promo.tax | premium   | $123.75   | —             | high           | low    | 5      | name.com                                            |
-| far.tax   | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| half.tax    | available | $14.99    | —             | high           | low    | 4      | name.com                                            |
+| great.tax   | premium   | $242      | $242          | high           | low    | 5      | namesilo                                            |
+| clean.tax   | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                        |
+| special.tax | premium   | $1,000    | —             | high           | low    | 7      | name.com                                            |
+| brief.tax   | available | $14.99    | $92.99        | high           | low    | 5      | name.com                                            |
+| bow.tax     | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
+| act.tax     | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| dog.tax     | premium   | $250      | —             | high           | low    | 3      | name.com                                            |
+| CNN.tax     | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
+| arc.tax     | resell    | —         | —             | medium         | medium | 3      | DNSPod, Inc.                                        |
+| arab.tax    | premium   | $118.80   | $118.80       | low            | low    | 4      | namesilo                                            |
+| coy.tax     | available | $14.99    | $92.99        | medium         | low    | 3      | name.com                                            |
+| our.tax     | resell    | —         | —             | medium         | medium | 3      | DNSPod, Inc.                                        |
+| post.tax    | premium   | $854      | $854          | high           | medium | 4      | namesilo                                            |
+| cue.tax     | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
+| sun.tax     | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
+| adult.tax   | premium   | $123.75   | $123.75       | high           | low    | 5      | name.com                                            |
+| don.tax     | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
+| wiz.tax     | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| eye.tax     | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
