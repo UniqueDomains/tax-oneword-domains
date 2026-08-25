@@ -343,7 +343,7 @@ b734724a-9fdd-4f7c-9477-577f21144b52,bowout.tax,available,14.99,,high,low,7,name
 b745130b-1bcb-43a7-9188-7775e5d0b4f5,childlanguage.tax,available,14.99,,medium,low,14,name.com,,
 0b9d055a-3bd4-4a54-8b94-a952267752ae,smuggled.tax,available,14.99,,medium,low,8,name.com,,
 920b4100-8e2a-45aa-bae4-1c20a3502276,azure.tax,available,,,high,low,5,,,
-025e6a16-216d-4862-a7dd-b1a7ba04169f,check.tax,resell,,,high,low,5,"DNSPod, Inc.",12/04/2024 15:16,12/04/2027 15:16
+025e6a16-216d-4862-a7dd-b1a7ba04169f,check.tax,resell,,,medium,low,5,"DNSPod, Inc.",12/04/2024 15:16,12/04/2027 15:16
 630ad57e-720f-4b1f-8c50-7ab39dcca690,drippy.tax,available,8.98,85.98,low,low,6,namecheap,,
 cb3684fd-36a4-4d7b-83ec-2962366365b4,accounted.tax,available,14.99,,medium,low,9,name.com,,
 7d74ed56-9713-4a20-99cf-11378a16f2c2,billboard.tax,available,14.99,,medium,low,9,name.com,,
@@ -985,7 +985,7 @@ e153de63-e8c1-4424-b387-5683fe22c566,asthecrowflies.tax,available,14.99,,medium,
 576d82d9-bf6d-4460-a673-1ed5b7116ab4,walkietalkie.tax,available,14.99,,high,low,13,name.com,,
 65a513a9-a03f-427c-88cc-4862cc8bd687,aspectual.tax,available,8.98,85.98,low,low,9,namecheap,,
 d800adf1-5747-40d4-a64e-c2b436da0d48,flightpath.tax,available,14.99,,medium,low,11,name.com,,
-11c3ad88-7873-42fa-8aab-169855451b51,endorse.tax,available,14.99,,high,low,7,name.com,,
+11c3ad88-7873-42fa-8aab-169855451b51,endorse.tax,available,8.98,85.98,medium,low,7,namecheap,,
 761f6682-6573-4b53-bbcb-eaa2ec05942e,GermanRepublic.tax,available,14.99,,medium,low,15,name.com,,
 f93b6818-6499-4c5e-8a0b-ce04f31de850,trainup.tax,available,14.99,,medium,low,8,name.com,,
 9b374a17-c2ff-4c6a-8062-39c161e3ddce,swallow.tax,available,14.99,,medium,low,7,name.com,,
