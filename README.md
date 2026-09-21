@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tax one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,066 domains · **Median ask:** $14.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/tax`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| half.tax      | available | $14.99    | —             | high           | low    | 4      | name.com                                            |
 | bow.tax       | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
 | education.tax | resell    | $14.99    | —             | medium         | low    | 9      | name.com                                            |
 | dog.tax       | premium   | $250      | —             | high           | low    | 3      | name.com                                            |
@@ -83,7 +84,6 @@ print(df.head())
 | wiz.tax       | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | promo.tax     | premium   | $123.75   | —             | high           | low    | 5      | name.com                                            |
 | far.tax       | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
-| arch.tax      | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
