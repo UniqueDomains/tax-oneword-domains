@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tax one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,720 domains · **Median ask:** $14.05 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/tax`
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | cnn.tax       | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
 | act.tax       | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | arab.tax      | premium   | $118.80   | $118.80       | low            | low    | 4      | namesilo                                            |
-| coy.tax       | available | $14.99    | $92.99        | medium         | low    | 3      | name.com                                            |
+| coy.tax       | available | $14.99    | $67.49        | low            | low    | 3      | namesilo                                            |
 | arc.tax       | resell    | —         | —             | medium         | medium | 3      | DNSPod, Inc.                                        |
 | post.tax      | premium   | $854      | $854          | high           | medium | 4      | namesilo                                            |
 | cue.tax       | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
@@ -81,7 +81,7 @@ print(df.head())
 | don.tax       | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
 | sun.tax       | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
 | great.tax     | premium   | $242      | $242          | medium         | low    | 5      | namesilo                                            |
-| eye.tax       | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
+| eye.tax       | available | $14.99    | $67.49        | low            | low    | 3      | namesilo                                            |
 | wiz.tax       | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | promo.tax     | premium   | $123.75   | —             | high           | low    | 5      | name.com                                            |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAX One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
