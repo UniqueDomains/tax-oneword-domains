@@ -23,7 +23,7 @@ b70e6a7a-16dc-4b4e-abe3-e897a6d02c76,arson.tax,available,14.99,67.49,high,low,5,
 b9c49451-74ae-4808-af24-792eeccccc10,depressed.tax,available,8.98,85.98,medium,low,9,namecheap,,,14/08/2026 02:43
 27db5d1d-8e74-4539-9256-0ec186d16cca,gems.tax,available,14.99,67.49,high,low,4,namesilo,,,19/09/2026 19:45
 3e93599c-747f-4475-9e3a-7c6218a61846,hurried.tax,available,8.98,85.98,medium,low,7,namecheap,,,21/08/2026 15:45
-e0950322-279d-4cb0-b95f-3e70c0f646b8,accused.tax,available,14.99,,high,low,7,name.com,,,
+e0950322-279d-4cb0-b95f-3e70c0f646b8,accused.tax,available,8.24,54.07,medium,low,7,porkbun,,,28/09/2026 17:31
 d7045386-9577-42ab-8c8f-50b78f129276,command.tax,available,14.99,67.49,high,low,7,namesilo,,,23/09/2026 13:28
 0224831a-24e8-4126-a299-e5a7276d84e5,lunger.tax,available,8.98,85.98,medium,low,6,namecheap,,,12/08/2026 23:06
 e268e252-aae1-4472-99e6-fc50e18b7355,anglophobe.tax,available,14.99,67.49,medium,low,10,namesilo,,,19/09/2026 06:55
@@ -31,8 +31,9 @@ a826ae0f-7cd5-4028-9189-bc5223e45541,versus.tax,available,52.2,52.2,high,low,6,c
 9d34cf19-9bf5-4f8f-abe8-1f5056112f53,imaginary.tax,available,8.98,85.98,high,low,9,namecheap,,,21/08/2026 20:16
 febf5864-4947-489a-85ff-83060bfbe699,olsen.tax,available,14.99,67.49,high,low,5,namesilo,,,25/09/2026 12:35
 211a4a8e-47ad-47f1-a113-7fb861030335,archangel.tax,available,14.99,67.49,high,low,9,namesilo,,,19/09/2026 05:59
+e5e79287-5240-4a62-b262-012ef9618397,beams.tax,available,14.99,67.49,medium,low,5,namesilo,,,28/09/2026 23:32
 0d0ae4a2-a966-4d71-8b9f-8c3af7b7b5af,supplicant.tax,available,8.98,85.98,medium,low,10,namecheap,,,11/09/2026 03:28
-11181b4f-e2f9-43b7-8a87-2d38e5f08122,optionally.tax,available,14.99,,medium,low,10,name.com,,,
+11181b4f-e2f9-43b7-8a87-2d38e5f08122,optionally.tax,available,8.24,55.86,medium,low,10,dynadot,,,28/09/2026 16:29
 c370d4a0-31a3-4466-ba05-c55355a48087,arizona.tax,resell,,,high,low,7,Dynadot Inc,24/11/2017 11:06,24/11/2026 11:06,26/09/2026 04:00
 41ba6c3a-626f-48b3-a6a6-9245213fa0ae,marry.tax,available,8.98,85.98,high,low,5,namecheap,,,13/09/2026 09:36
 ce65d65e-13c8-4146-9908-9145096e879a,valueable.tax,available,14.99,,medium,low,9,name.com,,,
@@ -50,8 +51,10 @@ e8958954-b754-4ca4-8ce7-d1a5503948da,adalia.tax,available,14.99,67.49,medium,low
 09f5d715-8eb9-4fa9-8a04-b479dca99973,cytolytic.tax,available,14.99,92.99,medium,low,9,name.com,,,13/08/2026 14:42
 1371c144-1198-41c1-a6ca-d5d86c5cdfc4,sparkles.tax,available,8.98,85.98,medium,low,8,namecheap,,,20/09/2026 19:19
 697929a6-4d86-4e92-bee8-99e8b3fb6ed6,eats.tax,available,14.99,67.49,high,low,4,namesilo,,,24/09/2026 14:57
+be799260-aadd-46c6-b273-2f2bf6507b63,endorsement.tax,available,52.2,52.2,high,low,11,cloudflare,,,29/09/2026 04:49
 8446fc22-5038-4983-bc9c-7df0184f4f69,chalk.tax,available,14.99,67.49,high,low,5,namesilo,,,28/09/2026 05:27
 8a88f90f-5dff-4cbc-8a87-28f9df8fb2c5,worldly.tax,available,8.98,85.98,high,low,7,namecheap,,,10/08/2026 13:20
+cfc74f14-681d-4b25-aa48-590040e5cdc0,resemble.tax,available,13.5,,high,low,8,unstoppable,,,28/09/2026 20:53
 96e43878-aa29-45ff-99e0-bc7d51b30cef,deist.tax,available,8.98,85.98,medium,low,5,namecheap,,,14/08/2026 00:15
 3cad8ad6-c70d-428f-8b91-76794de20937,shapely.tax,available,8.98,85.98,high,low,7,namecheap,,,10/09/2026 05:57
 0974a469-f20f-4c88-8589-6c0b466261d3,abutilon.tax,available,8.98,85.98,medium,low,8,namecheap,,,16/09/2026 19:21
@@ -62,22 +65,28 @@ bd907f66-1e4a-4848-8b55-e7ffafda3a19,gravelly.tax,available,8.98,85.98,medium,lo
 5035ad72-7906-4234-a80c-36e0fc0516a3,arequipa.tax,available,14.99,67.49,medium,low,8,namesilo,,,20/09/2026 03:53
 147c2a84-e044-4f0c-9207-a8d28402b71f,antwerpen.tax,available,14.99,67.49,medium,low,9,namesilo,,,19/09/2026 15:48
 876a8143-f2ad-4afc-b01e-fba53e1651e6,prison.tax,available,14.99,,high,low,6,name.com,,,
+40a2969c-26b6-4890-a0c8-43a9f5c539b6,rhodes.tax,available,52.2,52.2,medium,low,6,cloudflare,,,28/09/2026 13:40
 a0f89057-9696-4da7-ab4d-db995a61b5fb,sweetened.tax,available,8.98,85.98,medium,low,9,namecheap,,,11/09/2026 01:18
+29b81774-f82b-4e56-8fe6-6e337171c7ce,refrain.tax,available,8.98,85.98,high,low,7,namecheap,,,28/09/2026 20:16
 f1444b3a-a9e5-452b-b498-ccd665ec16c2,hitter.tax,available,14.99,92.99,high,low,6,name.com,,,22/09/2026 14:18
 40b39597-a38a-48ba-8202-5cc0b8d4ba55,shrewd.tax,available,8.98,85.98,high,low,6,namecheap,,,22/09/2026 10:37
 4e55246b-9fd1-4c20-9590-44a22f3bec7d,whore.tax,available,14.99,92.99,high,low,5,name.com,,,13/08/2026 14:16
 0d483345-1b8c-4e24-b3e3-8ce86e0a19d8,revolutions.tax,available,14.99,67.49,medium,low,11,namesilo,,,20/09/2026 15:34
 18a7dadb-d6df-4262-b835-466a8355e181,pawky.tax,available,8.98,85.98,medium,low,5,namecheap,,,08/09/2026 10:57
 11341a0a-4107-4082-9c39-db1477ba4ddb,etcetera.tax,available,8.98,85.98,high,low,8,namecheap,,,13/09/2026 19:52
+9d55ebd2-0e97-42b1-b1b3-2ac1bca7672e,treatments.tax,available,14.99,67.49,medium,low,10,namesilo,,,29/09/2026 04:46
 0caf3847-b335-4111-93e2-da7e4c0fd7eb,devoutly.tax,available,8.98,85.98,medium,low,8,namecheap,,,14/09/2026 12:30
 b8c83367-1bbe-4b34-afb4-f0e194861837,agapanthus.tax,available,14.99,67.49,medium,low,10,namesilo,,,17/09/2026 16:11
 3dfffb00-57f3-4c6c-b135-104464d149f8,ambulances.tax,available,14.99,67.49,medium,low,10,namesilo,,,21/09/2026 07:02
 7154c1df-3694-4d03-9c67-30ce80196e0f,artfully.tax,available,8.98,85.98,medium,low,8,namecheap,,,13/09/2026 20:53
+ec3a9bc2-68e7-4859-882c-46f35aecd4c3,barracks.tax,available,13.5,,medium,low,8,unstoppable,,,28/09/2026 13:08
 ff4f558b-8845-4fb9-865f-15f188176f7a,webs.tax,available,14.99,67.49,medium,low,4,namesilo,,,20/09/2026 10:33
 3b82ca8f-6603-4972-b986-d400adfcdb62,unstaged.tax,available,8.98,85.98,medium,low,8,namecheap,,,12/09/2026 20:29
 f0e31996-202f-4a45-b558-dee7b433a2df,raunchy.tax,available,8.98,85.98,medium,low,7,namecheap,,,09/08/2026 09:41
 240e8318-38a2-4313-8ff3-0732fc24d390,sony.tax,available,,,high,medium,4,,,,
 1b9bb5e3-1d2a-4f6b-8476-1635bd001d8d,traditional.tax,available,7.96,54.02,high,low,11,spaceship,,,27/09/2026 16:56
+e7b0287b-3e8c-4d48-a2f9-2fab64864783,circuits.tax,available,7.96,54.02,medium,low,8,spaceship,,,29/09/2026 00:07
+c845ff7f-584f-4e3e-8898-3dcfe94b6201,kindergarten.tax,available,14.99,67.49,high,low,12,namesilo,,,29/09/2026 05:20
 b1d975db-c1ea-44b1-adbc-034c831f5558,wimp.tax,available,8.98,85.98,medium,low,4,namecheap,,,24/09/2026 19:54
 2a3a2a6b-b9c2-4fe0-bdb9-24050680282f,francesca.tax,available,14.99,,high,low,9,name.com,,,
 8a427956-9089-4682-9702-16e23e971a56,mormon.tax,available,8.98,85.98,high,low,6,namecheap,,,25/08/2026 06:33
@@ -106,6 +115,7 @@ c9efbd42-7577-425c-af2f-d002b65c6bcd,them.tax,available,14.99,,high,low,4,name.c
 d085dd24-a912-4589-936d-37ffc04e6ee8,datable.tax,available,14.99,92.99,medium,low,7,name.com,,,13/08/2026 18:36
 62c06a0c-56fc-4c7e-8d6d-5ec15da9674f,tucked.tax,available,8.98,85.98,high,low,6,namecheap,,,11/09/2026 21:02
 50c11b68-7d5f-4d83-8a4d-43e5b43ead8d,ancillary.tax,available,8.98,85.98,high,low,9,namecheap,,,
+fd224bf8-7a64-4374-a6dc-f13e830d0ccb,celebrities.tax,available,14.99,67.49,medium,low,11,namesilo,,,28/09/2026 23:49
 d1cfe527-e306-45ea-bbc7-68158df46a5d,nodding.tax,available,8.98,85.98,high,low,7,namecheap,,,12/08/2026 00:48
 25eca481-f8c5-4b8e-a983-0654287b65e7,lexically.tax,available,8.98,85.98,medium,low,9,namecheap,,,15/09/2026 11:16
 383b02db-a873-4a14-a3c9-8cec6ec5d38d,husky.tax,available,,,high,medium,5,,,,
@@ -126,6 +136,7 @@ fab02d1b-f06e-442b-a85a-2a5f92f3d027,goodly.tax,available,8.98,85.98,high,low,6,
 9049d4c2-34de-4564-9000-970ba52a89b1,sunderland.tax,available,13.5,,high,low,10,unstoppable,,,28/09/2026 03:08
 6d6a5ecd-703e-4c5e-a697-dde3b49e9902,linda.tax,available,14.99,67.49,high,low,5,namesilo,,,25/09/2026 14:03
 d6e5086c-1080-4a46-8cf0-e89cd9240d04,welshman.tax,available,8.98,85.98,medium,low,8,namecheap,,,13/09/2026 10:44
+edccec10-90f0-49f9-a72e-e6c8a4347a2e,morphine.tax,available,8.24,54.07,medium,low,8,porkbun,,,28/09/2026 10:27
 a0861b62-1fc5-4b9b-add2-11df9f894ddc,charts.tax,available,14.99,67.49,high,low,6,namesilo,,,18/09/2026 23:12
 24fe7d33-eec4-4369-8411-f38280b3554e,johnston.tax,available,14.99,67.49,high,low,8,namesilo,,,25/09/2026 07:53
 db27f87f-ba3b-4d1f-82a4-da796e68b201,scurrilous.tax,available,8.98,85.98,medium,low,10,namecheap,,,
@@ -153,11 +164,14 @@ e092178c-f751-4fd7-8fc2-010b3420a7ba,bandy.tax,available,8.98,85.98,medium,low,5
 7de5ce21-2fab-4feb-9b89-de4242ea0dbf,analyzed.tax,available,8.98,85.98,medium,low,8,namecheap,,,
 8091ace3-38ae-4bc4-b6b1-458e9acaed65,imperious.tax,available,8.98,85.98,medium,low,9,namecheap,,,21/08/2026 01:26
 5d1e2734-c72b-4936-b6f7-cc2a790816a2,competing.tax,available,14.99,,high,low,9,name.com,,,
+a0e58a1d-8d7f-4ef1-98c1-c2b561910a58,faculty.tax,available,14.99,67.49,high,low,7,namesilo,,,28/09/2026 09:44
 cdf9e666-2de0-4b99-b866-b09c2aed539c,hospitably.tax,available,8.98,85.98,medium,low,10,namecheap,,,15/09/2026 01:10
-248686a1-a8ee-480c-9a69-1d539de286a2,tin.tax,available,14.99,,high,low,3,name.com,,,
+248686a1-a8ee-480c-9a69-1d539de286a2,tin.tax,available,8.24,54.07,high,low,3,porkbun,,,28/09/2026 23:00
 f3e38840-a713-4037-88f7-1f514997f033,lakh.tax,available,8.98,85.98,medium,low,4,namecheap,,,21/08/2026 15:36
+5ddd5b1f-b2d4-43f8-ab0b-0e71d7409c4f,clarify.tax,available,7.96,54.02,high,low,7,spaceship,,,29/09/2026 02:43
 5e1e2d80-b911-4908-add0-6cd042164028,encrusted.tax,available,8.98,85.98,medium,low,9,namecheap,,,13/08/2026 09:24
 7ebe60ff-1861-403b-b4a6-5473f8b3fb87,advertence.tax,available,14.99,67.49,medium,low,10,namesilo,,,17/09/2026 11:06
+a3e50d18-4e05-46b0-adc3-fc865051d256,remorse.tax,available,7.96,54.02,medium,low,7,spaceship,,,29/09/2026 00:28
 730f02e9-5847-41f6-a25b-0095faca1880,traverse.tax,available,8.98,85.98,high,low,8,namecheap,,,13/08/2026 07:58
 9d5bcec3-2067-4934-88a6-0b52271f422a,enjoying.tax,available,8.98,85.98,medium,low,8,namecheap,,,25/09/2026 21:02
 2b714e16-60ee-463f-ae87-6a58760ca79c,depression.tax,available,14.99,67.49,medium,low,10,namesilo,,,25/09/2026 14:31
@@ -170,6 +184,7 @@ ed83a1c7-f17e-4912-8a81-7479f191626a,autotroph.tax,available,14.99,67.49,medium,
 c1b6acee-9825-43ca-a678-11680b0308f9,obligation.tax,available,14.99,67.49,high,low,10,namesilo,,,24/09/2026 13:40
 8245500a-7897-4179-8996-ad45c11a8bc4,airworthy.tax,available,8.98,85.98,medium,low,9,namecheap,,,
 ca11532b-02a2-4d85-b56a-a3a26af86a6c,bishopric.tax,available,14.99,67.49,medium,low,9,namesilo,,,23/09/2026 21:59
+0c8e2431-d17a-4840-9873-da6cbd15d05c,stables.tax,available,8.98,85.98,medium,low,7,namecheap,,,28/09/2026 23:40
 b9349582-afa2-4540-88af-d9799020ee6a,baize.tax,available,8.98,85.98,medium,low,5,namecheap,,,21/09/2026 19:59
 695ab2a6-f738-4989-8c1c-172fc6a640c8,cellar.tax,available,14.99,67.49,high,low,6,namesilo,,,22/09/2026 10:16
 07b103b6-1298-44bc-a39c-67a663973d9d,clientele.tax,available,14.99,67.49,high,low,9,namesilo,,,24/09/2026 15:37
@@ -184,6 +199,7 @@ ba59abe1-916d-4b03-adbe-6bb6fb5141ab,reckless.tax,available,8.98,85.98,medium,lo
 78b1fac9-93c2-495c-987d-6e78735bec00,capricorn.tax,available,14.99,67.49,high,low,9,namesilo,,,24/09/2026 12:40
 0b3b81da-cd0b-4975-9998-73ad2ea89c3f,auspices.tax,available,14.99,67.49,medium,low,8,namesilo,,,17/09/2026 12:16
 e6d2fb5b-0a54-47ac-9a23-6f3cde352f26,rapt.tax,available,8.98,85.98,high,low,4,namecheap,,,14/08/2026 23:50
+a52c2708-0534-4871-b11f-939fc5144438,pea.tax,available,14.99,67.49,medium,low,3,namesilo,,,28/09/2026 15:03
 ac8fb20a-d6fc-41e9-86bc-a8d703840bf5,keyless.tax,available,8.98,85.98,medium,low,7,namecheap,,,22/08/2026 15:44
 a291f6e1-1c2a-4929-8f60-494773f64804,invalidate.tax,available,8.98,85.98,high,low,10,namecheap,,,13/09/2026 06:37
 7ffa8705-7d1b-441e-942c-a3565a4eeb2a,overfull.tax,available,8.98,85.98,medium,low,8,namecheap,,,20/08/2026 15:31
@@ -229,8 +245,10 @@ e96262ca-6c06-4d2e-af0e-9061a0e0232d,broom.tax,available,14.99,67.49,high,low,5,
 33d8cc51-ef8b-42b1-851b-565f1f5d9dba,alchemical.tax,available,8.98,85.98,medium,low,10,namecheap,,,
 fc0c7060-9a8d-4485-b70e-648a25284b02,banding.tax,available,14.99,67.49,high,low,7,namesilo,,,22/09/2026 01:17
 4288ba28-f258-4566-8d59-3b11941597ec,ineffably.tax,available,8.98,85.98,medium,low,9,namecheap,,,15/09/2026 07:55
+ce9ec8bc-635c-45d9-9e89-d6a7d1f85dd8,lucie.tax,available,8.98,85.98,medium,low,5,namecheap,,,28/09/2026 21:31
 7f015644-375c-42b1-abb5-cdaea33b87e3,sustained.tax,available,8.98,85.98,high,low,9,namecheap,,,18/08/2026 14:51
 1569b48d-1cfa-4c33-b16e-31f131b0409e,ostensive.tax,available,8.98,85.98,medium,low,9,namecheap,,,04/09/2026 18:31
+b4a3e71e-4f27-47af-80d8-7f9c18dda69f,programmed.tax,available,7.96,54.02,high,low,10,spaceship,,,28/09/2026 12:27
 c8762af0-7fcc-488d-9d79-89cfd5483637,alterable.tax,available,8.98,85.98,medium,low,9,namecheap,,,22/09/2026 02:18
 0317e660-1a4e-45dd-81c6-0e9e6d1a498f,arrogance.tax,available,8.98,85.98,high,low,9,namecheap,,,20/09/2026 09:19
 2e74ca29-11eb-4364-a9fc-9fc041f940e7,cams.tax,available,14.99,67.49,medium,low,4,namesilo,,,20/09/2026 11:30
@@ -248,8 +266,10 @@ f6b6e006-b290-4281-85ae-6130eaabe9da,experiments.tax,available,7.96,54.02,medium
 1b97a75b-3f99-41a4-be11-7f90fd42c441,desert.tax,available,8.98,85.98,high,low,6,namecheap,,,24/09/2026 06:40
 e729dd04-aee0-4bc2-943d-6c807e019f45,laden.tax,available,8.98,85.98,medium,low,5,namecheap,,,22/08/2026 18:30
 ca042f03-e416-4872-9798-e418a9c758ea,nsa.tax,available,14.99,67.49,high,low,3,namesilo,,,27/09/2026 04:50
+28875d0d-fa31-496c-9ed4-163a465aefd9,printer.tax,available,52.2,52.2,high,low,7,cloudflare,,,28/09/2026 15:08
 5d842376-42ab-418d-9a6c-48269b9419c9,factories.tax,available,14.99,67.49,medium,low,9,namesilo,,,20/09/2026 05:09
 f56686a5-96f9-45da-bc35-0fd3df504c3f,northern.tax,available,14.99,67.49,high,low,8,namesilo,,,25/09/2026 23:11
+a9c3b82a-1b4f-44c8-ac4b-41bcf054a9c7,bellamy.tax,available,7.96,54.02,medium,low,7,spaceship,,,28/09/2026 12:15
 39e6979b-5276-4328-a69c-d19a23d1c45f,dicky.tax,available,8.98,85.98,medium,low,5,namecheap,,,14/08/2026 06:27
 2e799f76-cf51-4352-b958-ea1603dbc212,touch.tax,resell,,,high,low,5,"DNSPod, Inc.",20/01/2023 15:15,20/01/2027 15:15,28/09/2026 09:25
 10ef4fee-9142-4431-acbe-20e75341efa9,disruptive.tax,available,8.98,85.98,medium,low,10,namecheap,,,28/09/2026 07:50
@@ -258,10 +278,12 @@ b224564e-2de5-4da8-a030-8890954d8fa7,oppose.tax,available,14.99,,high,low,6,name
 e3a6df07-1c24-48fe-812c-2839149fa0a2,codes.tax,premium,118.8,118.8,high,low,5,namesilo,,,
 19417014-caf2-4f7c-841b-f7a65679cfa0,liqueur.tax,available,8.98,85.98,high,low,7,namecheap,,,13/08/2026 01:02
 34134c75-9218-46f5-9d17-6524430c7c59,sul.tax,available,8.98,85.98,medium,low,3,namecheap,,,27/09/2026 10:19
-532d2ea6-ca5b-4361-93c8-ed4afe1d59e5,autumn.tax,available,14.99,,high,low,6,name.com,,,
+532d2ea6-ca5b-4361-93c8-ed4afe1d59e5,autumn.tax,available,14.99,67.49,high,low,6,namesilo,,,28/09/2026 23:31
 f7e3f7c7-8da3-485f-831c-30b0474fe69c,isolated.tax,available,14.99,67.49,medium,low,8,namesilo,,,22/09/2026 07:07
 60adcb41-3be8-4e6d-9acd-ee9f1f2a17b9,fanged.tax,available,8.98,85.98,medium,low,6,namecheap,,,17/08/2026 22:05
+e0075c6a-3390-436f-9ac5-62f1aa487f23,spear.tax,available,7.96,54.02,medium,low,5,spaceship,,,28/09/2026 09:46
 2210c8d7-956d-4454-bf77-ba808a362552,stoutness.tax,available,8.98,85.98,medium,low,9,namecheap,,,04/09/2026 22:03
+c9790993-730c-4ce8-b8ca-f1eeef110660,narcotics.tax,available,7.96,54.02,medium,low,9,spaceship,,,28/09/2026 22:46
 c6f043ce-fe37-41a1-99e9-a38d6234a696,newsless.tax,available,8.98,85.98,low,low,8,namecheap,,,03/09/2026 16:52
 4f4a3dab-a358-42dd-b2df-b73068d7fca2,abjurer.tax,available,14.99,67.49,medium,low,7,namesilo,,,16/09/2026 16:02
 61e9254d-ffe4-4354-9255-3707df1d00ba,cocotte.tax,available,14.99,92.99,medium,low,7,name.com,,,13/08/2026 14:14
@@ -272,10 +294,12 @@ c137f30c-2f17-45a1-973d-c62654793822,sixteenth.tax,available,8.98,85.98,high,low
 03afa2dd-ff4e-4c2e-b674-f51f51b09c77,myoid.tax,available,8.98,85.98,low,low,5,namecheap,,,03/09/2026 12:10
 2441be08-869a-41c1-a0d7-22aaeb69790a,banned.tax,available,8.98,85.98,medium,low,6,namecheap,,,08/08/2026 13:44
 9190379d-0bec-49e4-a7b4-9221fe9cae22,roadster.tax,available,8.98,85.98,high,low,8,namecheap,,,11/08/2026 08:06
+97042042-01c8-484c-bc17-e42a3958eab9,aspects.tax,available,7.96,54.02,medium,low,7,spaceship,,,28/09/2026 23:07
 6b0f1a28-8bd8-4b9d-aa1f-fa509efdf3c9,bragg.tax,available,14.99,67.49,medium,low,5,namesilo,,,25/09/2026 21:58
 27971226-dd75-4e31-bf2c-69ccc5b14879,catalog.tax,available,8.98,85.98,high,low,7,namecheap,,,24/09/2026 13:07
 a50db22a-d6e8-4e1a-946b-85816a10d935,outsize.tax,available,8.98,85.98,high,low,7,namecheap,,,04/09/2026 19:38
 076667f0-d2d9-4fbc-8438-c576adc0b623,acrobates.tax,available,14.99,67.49,medium,low,9,namesilo,,,17/09/2026 03:18
+b678990b-49cd-4709-8104-3a64b7410f28,predictable.tax,available,14.99,67.49,high,low,11,namesilo,,,28/09/2026 15:49
 dd91546f-37c5-4090-af72-b0915ed4710b,gloss.tax,available,8.98,85.98,high,low,5,namecheap,,,08/09/2026 22:58
 a1811873-e7a3-499a-8ce9-1824073729a6,creation.tax,available,52.2,52.2,high,low,8,cloudflare,,,28/09/2026 03:53
 8b101fe2-aef3-44af-bfb3-80b5aec0597d,olibanum.tax,available,8.98,85.98,medium,low,8,namecheap,,,16/09/2026 09:03
@@ -284,6 +308,7 @@ a1811873-e7a3-499a-8ce9-1824073729a6,creation.tax,available,52.2,52.2,high,low,8
 6bd9a998-e6ea-4c08-bce9-5a6b08fb4818,erstwhile.tax,available,8.98,85.98,medium,low,9,namecheap,,,17/08/2026 13:05
 14bfd2a9-a37d-4ac7-8041-f11891576304,considered.tax,available,8.98,85.98,high,low,10,namecheap,,,23/09/2026 20:51
 18cd818e-4a30-407f-8032-449411b5feb3,sketch.tax,available,13.5,,high,low,6,unstoppable,,,28/09/2026 01:36
+14c338b8-ffb3-4c55-910e-5f90be9e4625,cakes.tax,available,8.24,54.07,medium,low,5,porkbun,,,28/09/2026 13:16
 abfbcade-f93c-4cf2-adf7-3dc8b2b01eae,buoyant.tax,available,8.98,85.98,high,low,7,namecheap,,,11/08/2026 10:06
 e849c8d2-bf64-4cf6-b1a5-74861a71fc1f,antonym.tax,available,8.98,85.98,medium,low,7,namecheap,,,04/09/2026 16:48
 bdf6521b-8972-4419-9050-e0a41dad6849,abator.tax,available,8.98,85.98,medium,low,6,namecheap,,,16/09/2026 14:13
@@ -310,6 +335,7 @@ d4e34f27-f908-41a1-940c-3fe309b77339,ernie.tax,available,8.98,85.98,high,low,5,n
 5ba3c4f3-9725-48ff-97a5-21db2c8f149b,dracula.tax,available,14.99,,high,low,7,name.com,,,
 e6ca7ec3-60e0-4c60-a780-e69c2542c9c5,struggling.tax,available,8.98,85.98,medium,low,10,namecheap,,,10/09/2026 22:52
 c4e446b3-63d2-43f4-9247-7e499901061c,scathing.tax,available,8.98,85.98,medium,low,8,namecheap,,,09/09/2026 22:57
+94e740ea-aea4-475b-8c2d-36be71c8440b,natasha.tax,available,7.96,54.02,medium,low,7,spaceship,,,28/09/2026 11:59
 81fac1eb-b137-4641-86f7-6a10ba88be84,nuprin.tax,available,14.99,67.49,medium,low,6,namesilo,,,17/09/2026 11:20
 d08fe43e-1463-4ffc-98ec-168d3182a489,praises.tax,available,14.99,67.49,medium,low,7,namesilo,,,19/09/2026 00:10
 d960405c-3774-4ac3-8419-74f13781a72b,colon.tax,available,14.99,67.49,high,low,5,namesilo,,,20/09/2026 15:16
@@ -317,12 +343,15 @@ d960405c-3774-4ac3-8419-74f13781a72b,colon.tax,available,14.99,67.49,high,low,5,
 8babd774-8c1d-4dd3-837d-0f21d24b7af3,telltale.tax,available,8.98,85.98,high,low,8,namecheap,,,11/09/2026 10:35
 38627bb1-fc61-4de3-9c1c-24c915008e77,marvellous.tax,available,14.99,67.49,high,low,10,namesilo,,,25/09/2026 00:14
 c9b6a5da-acbf-4f7f-8cab-accdd9bcf7d4,bumper.tax,available,8.98,85.98,high,low,6,namecheap,,,24/09/2026 11:09
+a902aec1-59c2-4133-b360-6e9cb0f2eec4,manufacture.tax,available,13.5,,high,low,11,unstoppable,,,28/09/2026 21:00
 68ee4c11-ac17-4b07-90f6-915f6b752f17,letting.tax,available,8.98,85.98,high,low,7,namecheap,,,09/09/2026 14:21
 0bfe69b3-a5a6-49b6-9231-c1da7f68bb6b,segregation.tax,available,14.99,67.49,medium,low,11,namesilo,,,16/09/2026 23:21
 5942162b-f19b-4203-841d-759cd4f22e38,electricians.tax,available,8.98,85.98,medium,low,12,namecheap,,,20/09/2026 20:08
 83a14cf8-cfad-43ff-abf9-82a87debc543,vegetables.tax,available,8.98,85.98,medium,low,10,namecheap,,,16/09/2026 12:36
 b065bfa1-01c0-4775-ba0d-068590810656,percy.tax,available,14.99,67.49,high,low,5,namesilo,,,25/09/2026 06:59
+fa5ffb26-e484-4d4a-bc67-fabb8bbd2be0,architecture.tax,available,14.99,67.49,high,low,12,namesilo,,,28/09/2026 17:04
 acd047b1-cfcc-4d91-894b-c9d612b54c78,gruntle.tax,available,8.98,85.98,medium,low,7,namecheap,,,18/08/2026 22:14
+fada7e58-16b9-47f8-b849-e2563a84fab2,tolkien.tax,available,52.2,52.2,medium,low,7,cloudflare,,,28/09/2026 19:31
 df78900b-e124-4cbd-980e-ea3094895cd7,devil.tax,resell,,,medium,low,5,"Sav.com, LLC - 33",25/08/2025 15:15,25/08/2027 15:15,26/09/2026 05:32
 a12df68d-f9eb-442c-b177-7c45d533c7d3,aware.tax,available,8.98,85.98,high,low,5,namecheap,,,25/09/2026 20:16
 c4501360-a87d-4b6d-ab51-24e1095d9516,saccade.tax,available,8.98,85.98,medium,low,7,namecheap,,,22/08/2026 12:47
@@ -335,28 +364,31 @@ ca550058-f426-4b80-bcf1-50b982e05b0c,insular.tax,available,8.98,85.98,medium,low
 f717667a-124f-470e-ac41-8daaccafb368,straining.tax,available,8.98,85.98,medium,low,9,namecheap,,,10/09/2026 21:43
 68cea833-830c-4cf7-bee2-6f289bcc050e,keister.tax,available,8.98,85.98,low,low,7,namecheap,,,09/08/2026 11:08
 ee3e81d7-44af-41c6-845f-cf5cfe3b40af,camille.tax,available,8.98,85.98,high,low,7,namecheap,,,27/09/2026 07:42
+772e5566-0607-4bef-a637-23bb4c9f98e2,underworld.tax,available,14.99,67.49,medium,low,10,namesilo,,,28/09/2026 10:32
 959d865c-3bed-430c-b748-2f92453ea037,overeat.tax,available,14.99,67.49,medium,low,7,namesilo,,,23/09/2026 17:26
 dd6d679f-02fa-48c0-a554-2684f3936fd4,ardent.tax,available,8.98,85.98,high,low,6,namecheap,,,06/08/2026 16:11
 4ee3b532-e4e3-4d64-a6ab-a6953d0cf674,leafy.tax,available,8.98,85.98,high,low,5,namecheap,,,22/08/2026 21:57
-94c275ce-82e9-4081-8aeb-15d87a384883,basically.tax,available,14.99,,high,low,9,name.com,,,
-976e6a5b-660d-49e6-9241-a7f815fdabd6,publicly.tax,available,14.99,,medium,low,8,name.com,,,
+94c275ce-82e9-4081-8aeb-15d87a384883,basically.tax,available,7.96,54.02,medium,low,9,spaceship,,,28/09/2026 13:22
+976e6a5b-660d-49e6-9241-a7f815fdabd6,publicly.tax,available,14.99,67.49,medium,low,8,namesilo,,,28/09/2026 15:37
 b382e5b8-17d1-4fae-b3e1-310f45db4d97,embassador.tax,available,14.99,67.49,medium,low,10,namesilo,,,18/09/2026 16:29
-f8f0d53a-356e-47a7-a52e-fcec12d807c8,forever.tax,available,14.99,67.49,high,medium,7,namesilo,,,27/09/2026 02:31
+f8f0d53a-356e-47a7-a52e-fcec12d807c8,forever.tax,available,14.99,67.49,high,medium,7,namesilo,,,28/09/2026 14:47
 41d5c2ea-7f95-496b-bd1e-6601ceae4e84,bluish.tax,available,14.99,67.49,high,low,6,namesilo,,,22/09/2026 22:47
 f6eb03f9-1f22-445c-bd88-f4c908994b2b,flowery.tax,available,8.98,85.98,high,low,7,namecheap,,,18/08/2026 09:09
 47ec91d0-6a73-46ee-a2b2-42703f937687,howling.tax,available,8.98,85.98,high,low,7,namecheap,,,21/08/2026 14:24
-c800aaee-c485-483b-b5e4-2fe461118f7d,movement.tax,available,14.99,,high,low,8,name.com,,,
-c709d3ec-71c3-4b7e-8ae6-83e3579e3c69,sweet.tax,available,14.99,67.49,high,low,5,namesilo,,,25/09/2026 22:43
+c800aaee-c485-483b-b5e4-2fe461118f7d,movement.tax,available,52.2,52.2,high,low,8,cloudflare,,,28/09/2026 21:51
+c709d3ec-71c3-4b7e-8ae6-83e3579e3c69,sweet.tax,available,52.2,52.2,high,low,5,cloudflare,,,28/09/2026 15:21
 8b7b6ff9-de3e-45e2-a247-1fb3ad1f1c9f,inert.tax,available,8.98,85.98,high,low,5,namecheap,,,22/08/2026 03:57
 5ce3369a-52d2-4c70-98a2-1e48a4d5462b,jaded.tax,available,8.98,85.98,medium,low,5,namecheap,,,22/08/2026 11:58
 a10afdc2-d09a-4911-83f5-27f20e0e0a6e,katy.tax,available,14.99,,high,low,4,name.com,,,
-aa65f814-995c-427e-ba0d-a175a896a344,baseball.tax,premium,118.8,118.8,high,low,8,namesilo,,,
+bc28f056-af9f-40c3-a5b4-ab5942ca6a2f,preach.tax,available,13.5,,high,low,6,unstoppable,,,28/09/2026 15:35
+aa65f814-995c-427e-ba0d-a175a896a344,baseball.tax,premium,102.67,102.67,high,low,8,spaceship,,,29/09/2026 01:20
 d6b9e28a-43da-44a6-95f5-3c9ea0700134,anisette.tax,available,8.98,85.98,medium,low,8,namecheap,,,19/09/2026 09:29
+1d2ea295-1368-4c7e-829a-dbf9da4daca8,bret.tax,available,8.98,85.98,medium,low,4,namecheap,,,29/09/2026 03:55
 e5098435-0e2b-4d56-b8b2-35613f88dc82,unfamiliar.tax,available,8.98,85.98,high,low,10,namecheap,,,12/09/2026 09:55
 a5fd36e8-b6fb-44ad-b20d-de1e393bf201,tiro.tax,available,14.99,67.49,medium,low,4,namesilo,,,23/09/2026 02:28
 677b4163-1095-4c06-a59d-39d4d122e666,beau.tax,available,14.99,92.99,high,low,4,name.com,,,13/08/2026 17:13
 76ee62b5-99a0-48a8-ad45-60603afbb163,kwh.tax,available,7.96,54.02,medium,low,3,spaceship,,,28/09/2026 07:34
-5992780d-cadc-4102-8464-c0793a8dcaa2,poster.tax,available,14.99,,high,low,6,name.com,,,
+5992780d-cadc-4102-8464-c0793a8dcaa2,poster.tax,available,8.98,85.98,high,low,6,namecheap,,,29/09/2026 02:42
 16f88c82-e741-43e6-9b57-5ea72fecf287,bakelite.tax,available,8.98,85.98,medium,low,8,namecheap,,,21/09/2026 20:15
 7ae50020-ebda-41ff-aca7-9ca1120f7ef1,silverbush.tax,available,14.99,67.49,medium,low,10,namesilo,,,19/09/2026 14:04
 dd9a2de9-c492-4eaa-b9d7-23ec250acbcd,populace.tax,available,8.98,85.98,high,low,8,namecheap,,,09/09/2026 05:22
@@ -365,6 +397,7 @@ c7ec9bb1-a1b6-4919-98a6-5355383dd674,intimal.tax,available,8.98,85.98,medium,low
 4cea6c92-42db-4b8a-b21d-8134eb11fbf0,licenced.tax,available,14.99,67.49,medium,low,8,namesilo,,,21/09/2026 15:56
 b27babc4-2244-488c-b9ce-2ab03efe1ebd,spoilt.tax,available,8.98,85.98,medium,low,6,namecheap,,,10/08/2026 14:19
 15808064-c051-4ca6-8cbc-8b3a28a417ac,viii.tax,available,8.98,85.98,high,low,4,namecheap,,,
+5622f168-9b37-4cf6-b3e5-5aee2c546057,ayres.tax,available,8.24,54.07,medium,low,5,porkbun,,,28/09/2026 12:24
 4c436a7e-aeab-4a76-b0a8-5f6d8171b79a,remarkably.tax,available,8.98,85.98,medium,low,10,namecheap,,,15/09/2026 23:06
 23ca47c7-36ba-43ef-b4f9-244395ab45d5,mars.tax,available,7.96,54.02,high,medium,4,spaceship,,,28/09/2026 06:21
 62db0be6-4480-46c0-b29d-37a750d47092,unveil.tax,available,14.99,,high,low,6,name.com,,,
@@ -373,6 +406,7 @@ ec98f24c-be04-4377-9e19-04c9bfd37faa,disastrous.tax,available,8.98,85.98,medium,
 cd818d74-6778-4480-a6fc-91b267d19482,lsd.tax,available,8.24,55.86,high,low,3,dynadot,,,28/09/2026 06:12
 b4de371d-9653-42b4-867e-a281d731658d,approximately.tax,available,14.99,67.49,medium,low,13,namesilo,,,27/09/2026 08:28
 79e28e6c-eebf-43c5-a648-7eaa445cf991,prospering.tax,available,8.98,85.98,medium,low,10,namecheap,,,10/08/2026 19:17
+3ee21925-5c2a-48c4-a1d6-f1636efac7b9,galway.tax,available,7.96,54.02,high,low,6,spaceship,,,28/09/2026 09:51
 aa8120ae-8418-49e9-ad34-905fc143c4f1,cliff.tax,available,8.98,85.98,high,low,5,namecheap,,,24/09/2026 15:37
 ac1195f0-06d4-4e1a-988a-1f24a82f7619,braky.tax,available,8.98,85.98,low,low,5,namecheap,,,11/08/2026 01:57
 a0cd6cee-c7f9-4b24-90b0-e6478e25db19,swimsuits.tax,available,14.99,67.49,medium,low,9,namesilo,,,18/09/2026 15:44
@@ -397,6 +431,7 @@ c5fc0423-a3d2-4921-b40c-492022c8bb64,grandfathers.tax,available,14.99,67.49,medi
 9b8430aa-f80a-4489-8628-ce8303eacff7,indictment.tax,available,14.99,67.49,medium,low,10,namesilo,,,23/09/2026 16:05
 2f6991a5-31a2-44d4-914d-f1adf297544b,unwilling.tax,available,8.98,85.98,medium,low,9,namecheap,,,12/09/2026 22:40
 54c9962d-e263-468d-b48f-c3d3578ea63a,dummy.tax,available,14.99,67.49,high,low,5,namesilo,,,24/09/2026 12:20
+2704b776-2def-4358-8719-163d68cdca44,escapes.tax,available,52.2,52.2,medium,low,7,cloudflare,,,29/09/2026 05:18
 50637366-2888-410f-a047-0fa4916f4bd6,blest.tax,available,8.98,85.98,medium,low,5,namecheap,,,10/08/2026 14:15
 a629c9d5-f332-46ed-ba9c-b14dd7b222a8,mortgaged.tax,available,8.98,85.98,medium,low,9,namecheap,,,25/08/2026 06:38
 3ed765b0-f89c-4856-bbaf-f3faddcf7db1,improbable.tax,available,8.98,85.98,medium,low,10,namecheap,,,21/08/2026 23:07
@@ -413,10 +448,10 @@ dd97f16b-48b4-4ebd-9bce-e67002ca6b64,foul.tax,available,8.98,85.98,high,low,4,na
 7b9eb459-5017-4b93-acfd-0a9b81f75bac,solferino.tax,available,14.99,67.49,medium,low,9,namesilo,,,22/09/2026 15:59
 0ebcd532-a0ef-4036-a52a-d67a0af4e1d3,grayly.tax,available,8.98,85.98,low,low,6,namecheap,,,14/09/2026 22:14
 a817c353-2f86-4feb-83a2-0e9f543646f3,familial.tax,available,8.98,85.98,high,low,8,namecheap,,,17/08/2026 21:41
-40404cc9-9628-428f-9e2a-184ce6c22753,hamilton.tax,available,,,high,medium,8,,,,
 6d7378c4-bcb9-401d-a91f-47df72b91bc3,aubrey.tax,available,14.99,67.49,high,low,6,namesilo,,,27/09/2026 07:41
 29267f22-5176-4ccf-b81d-951f85c0e673,trying.tax,available,8.98,85.98,high,low,6,namecheap,,,03/09/2026 15:44
 333ed42e-598f-428b-bd9c-59ddb6a6fe5b,progressive.tax,premium,854,854,high,low,11,namesilo,,,19/09/2026 14:06
+781f3605-eb8d-4894-b16b-b4c867908812,publisher.tax,available,52.2,52.2,high,low,9,cloudflare,,,28/09/2026 10:33
 25b0f7ce-d41b-4b6a-9abb-a345e18c4e5f,clouded.tax,available,8.98,85.98,medium,low,7,namecheap,,,12/08/2026 12:27
 8fcb080b-23c0-47ce-9763-ea95b619eb79,gloria.tax,available,14.99,67.49,high,low,6,namesilo,,,27/09/2026 02:39
 405296d3-b6b9-4954-8708-bfc83d20ed42,famished.tax,available,8.98,85.98,medium,low,8,namecheap,,,17/08/2026 13:41
@@ -429,20 +464,24 @@ a77c9813-7432-4593-a952-63d76e545179,hop.tax,available,14.99,67.49,high,low,3,na
 1518136f-302d-46a7-9a0e-5c22ae957f78,auburn.tax,available,14.99,67.49,high,low,6,namesilo,,,22/09/2026 12:02
 bfcf7357-f9d1-4400-882f-6dd261b9d436,congolese.tax,premium,118.8,118.8,high,low,9,namesilo,,,12/08/2026 21:54
 6e8f4428-393b-460a-95c0-fb2248ea2ea2,synonymous.tax,available,8.98,85.98,high,low,10,namecheap,,,11/09/2026 06:31
+6c3a3ba4-9b1f-4b8e-bbbb-01cf9e045d44,awaiting.tax,available,52.2,52.2,low,low,8,cloudflare,,,28/09/2026 17:49
+c9a98597-74f0-4ead-a7ee-cddecd6a7724,independence.tax,available,52.2,52.2,high,low,12,cloudflare,,,28/09/2026 11:42
 e29e0c78-7554-4e48-887c-db158858c938,berit.tax,available,14.99,67.49,high,low,5,namesilo,,,23/09/2026 09:27
 0ed60789-8e58-4bab-a7ca-0029d8500b85,ridden.tax,available,14.99,,high,low,6,name.com,,,
 d2963888-f4a8-4e9c-8676-3874968219c6,smashingly.tax,available,8.98,85.98,medium,low,10,namecheap,,,16/09/2026 02:49
 e448069f-fbd5-4f05-935d-c875270bece5,existent.tax,available,8.98,85.98,medium,low,8,namecheap,,,
 776e92a9-e385-4b0c-91e3-08fe117e99db,outclassed.tax,available,8.98,85.98,medium,low,10,namecheap,,,04/09/2026 19:12
 5cfa6e0c-4bab-49f8-99b3-3c255a3f4faa,flood.tax,available,14.99,,high,low,5,name.com,,,
-93fa0f73-ea18-4cb8-9ee6-3008c174f5e3,browser.tax,available,14.99,,high,low,7,name.com,,,
+93fa0f73-ea18-4cb8-9ee6-3008c174f5e3,browser.tax,available,7.96,54.02,high,low,7,spaceship,,,29/09/2026 04:41
 e4c45d03-9b3d-40b4-8916-0addc9b11cdf,curt.tax,available,8.98,85.98,medium,low,4,namecheap,,,11/08/2026 07:05
 e64009a9-6228-4b9f-961c-8545997405fe,rama.tax,available,7.96,54.02,high,low,4,spaceship,,,27/09/2026 15:30
 0a3407b0-22ed-4419-b42d-270a3e1d6e1e,riddled.tax,available,8.98,85.98,medium,low,7,namecheap,,,09/09/2026 17:19
+02bdec91-929b-4e73-8709-05d90cd16a12,edit.tax,available,7.96,54.02,high,low,4,spaceship,,,29/09/2026 02:42
 cc49101d-49d1-4138-9c69-78aeb8e688b3,tangible.tax,available,8.98,85.98,high,low,8,namecheap,,,05/09/2026 00:10
 5ec96bfd-c6f3-449e-93c4-9d6a4ff90dff,mottled.tax,available,14.99,92.99,medium,low,7,name.com,,,13/08/2026 17:41
 33853afa-a373-405f-a492-5f3fc5b09802,nap.tax,available,14.99,67.49,high,low,3,namesilo,,,24/09/2026 13:06
 8b0bae61-587e-440e-a7b5-104dcf213ca2,hassium.tax,available,8.98,85.98,medium,low,7,namecheap,,,20/09/2026 22:10
+107fa47c-8b1e-45f7-8fa9-9ec7c25ef705,kerala.tax,available,8.24,54.07,medium,low,6,porkbun,,,28/09/2026 16:15
 c48fc457-6439-4297-8031-b7aca156cfcf,mop.tax,available,14.99,,high,low,3,name.com,,,
 cd50f2c2-b1c3-43c2-bd28-270706c57f72,comer.tax,available,14.99,67.49,medium,low,5,namesilo,,,20/09/2026 09:17
 3d365b2c-4609-4199-93d8-93575e1eaa81,virgil.tax,available,52.2,52.2,high,low,6,cloudflare,,,28/09/2026 02:58
@@ -455,6 +494,7 @@ cb76c0eb-1d38-4aa5-934b-382efab594be,artisan.tax,available,8.98,85.98,high,low,7
 0004b50e-0815-41ca-b3b4-e2a374c4d63d,ghent.tax,available,14.99,92.99,medium,low,5,name.com,,,27/09/2026 04:10
 063c6130-c943-4497-80b7-f4553258f2b1,burnable.tax,available,8.98,85.98,medium,low,8,namecheap,,,11/08/2026 10:44
 875125c6-cd67-410c-b15e-48d8b825c61c,alto.tax,available,8.98,85.98,high,low,4,namecheap,,,
+bd1d6a7e-d09e-45ba-acea-e3cb8325c59c,awarded.tax,available,8.98,85.98,medium,low,7,namecheap,,,29/09/2026 05:30
 07301ec6-b4fd-47f3-bbed-3d633666f8d7,reclusive.tax,available,8.98,85.98,medium,low,9,namecheap,,,09/09/2026 11:40
 991dd19a-f1fd-4bca-8b45-e7eeb9462437,protester.tax,available,8.98,85.98,medium,low,9,namecheap,,,14/08/2026 12:41
 91076377-2393-413a-91b6-a081b74b014a,whop.tax,available,14.99,67.49,high,low,4,namesilo,,,22/09/2026 10:29
@@ -470,8 +510,9 @@ cceec07c-a6d2-4f78-96af-e2d002af20a3,stinky.tax,available,8.98,85.98,high,low,6,
 b31ce61d-3048-489e-be9e-250b081f9b7d,alhazen.tax,available,14.99,67.49,medium,low,7,namesilo,,,18/09/2026 00:42
 7ebb2a14-1375-4887-969d-e00f15ecdeac,avesta.tax,available,8.98,85.98,medium,low,6,namecheap,,,21/09/2026 09:22
 4c8e5a24-6cbb-4a21-b234-fee5fc54a09b,miserly.tax,available,8.98,85.98,medium,low,7,namecheap,,,24/08/2026 23:45
+3b41a202-87ad-40cd-98e7-677b7049b8fa,declined.tax,available,14.99,67.49,low,low,8,namesilo,,,28/09/2026 22:47
 609d54be-cc79-48cc-9c1b-24c2c127f291,catherine.tax,available,14.99,67.49,high,low,9,namesilo,,,25/09/2026 04:07
-4247368c-27a7-4aa5-a5d3-1474a06aa7d8,valuable.tax,available,14.99,,high,low,8,name.com,,,
+4247368c-27a7-4aa5-a5d3-1474a06aa7d8,valuable.tax,available,14.99,67.49,high,low,8,namesilo,,,28/09/2026 10:06
 17274735-05e4-427b-be7f-3c82ed90fe8c,curry.tax,available,14.99,,high,low,5,name.com,,,
 571b5ec2-eeb8-4343-81bf-3d6f266a2bb6,arhant.tax,available,14.99,67.49,medium,low,6,namesilo,,,20/09/2026 05:07
 05ebcbeb-ee0f-49ab-93e2-141bf0dd6332,wilbur.tax,available,8.98,85.98,high,low,6,namecheap,,,27/09/2026 07:43
@@ -479,8 +520,11 @@ ba19379f-f44b-4c4c-b646-eccb9b213260,filled.tax,available,8.98,85.98,high,low,6,
 e5bcf9f3-1002-45ee-a071-d7435643c18e,logy.tax,available,8.98,85.98,medium,low,4,namecheap,,,18/08/2026 09:55
 ecaafb37-93c7-48c8-8f42-43243ee17ded,really.tax,available,14.99,67.49,high,low,6,namesilo,,,27/09/2026 09:55
 833d4a4f-67f4-4ee3-9206-1e3a04d837d3,nepali.tax,available,8.98,85.98,high,low,6,namecheap,,,03/09/2026 15:37
+9586811f-a62c-4482-8a12-b1e69800b8d9,susie.tax,available,7.96,54.02,medium,low,5,spaceship,,,28/09/2026 16:25
 ad264147-c9c6-4783-9265-185797b2db9f,rustless.tax,available,8.98,85.98,medium,low,8,namecheap,,,09/09/2026 20:19
+1b79678d-e449-49a4-ac63-18e9c3604210,convertible.tax,available,14.99,67.49,medium,low,11,namesilo,,,28/09/2026 15:45
 85fea123-10cc-4c45-8365-eec69e5397cf,ageing.tax,available,14.99,67.49,high,low,6,namesilo,,,21/09/2026 22:43
+1a82f5f2-131a-42dc-bc22-e8f0c80bf02a,caves.tax,available,8.24,54.07,medium,low,5,porkbun,,,28/09/2026 13:19
 4e42198e-079a-4aab-a238-067d85675050,unitary.tax,available,8.98,85.98,high,low,7,namecheap,,,12/09/2026 13:58
 1ee4dda4-bc4f-49f7-aee8-e6c85a7c8925,maidenly.tax,available,8.98,85.98,medium,low,8,namecheap,,,24/08/2026 13:14
 aab7d9e0-d3aa-4c40-83f9-f149db67e995,webbed.tax,available,8.98,85.98,medium,low,6,namecheap,,,03/09/2026 16:04
@@ -493,6 +537,7 @@ c573e23a-47e5-4a02-bb71-4f6215a4c12e,miscellany.tax,available,8.98,85.98,medium,
 759acb6c-6a07-447f-9a5d-ba9fd6c5dab0,christie.tax,available,14.99,67.49,high,low,8,namesilo,,,17/09/2026 16:30
 90461239-6db4-4436-a207-61ed3410456a,counterattack.tax,available,14.99,,medium,low,14,name.com,,,
 2509e2c6-39a5-48da-8ea1-82e45abdaac6,headquarters.tax,available,8.98,85.98,high,low,12,namecheap,,,27/09/2026 02:02
+cd39b02e-48d7-4a23-a530-cc14dff7046a,shenzhen.tax,available,13.5,,medium,low,8,unstoppable,,,29/09/2026 04:19
 6b8dabc4-1d37-4a54-afcf-7c36ef10f2f3,breadfruit.tax,available,14.99,67.49,high,low,10,namesilo,,,20/09/2026 11:57
 3ba167c4-dd3c-4489-88e1-5486b39f4675,laughable.tax,available,14.99,67.49,high,low,9,namesilo,,,23/09/2026 15:25
 3c6a321d-0ca4-42fa-9d3c-dbe6ad1b133b,hiemal.tax,available,8.98,85.98,medium,low,6,namecheap,,,11/08/2026 06:40
@@ -527,8 +572,10 @@ e25963a7-469d-4ce5-b67f-74ab38280413,chamfer.tax,available,8.98,85.98,medium,low
 6817da2c-ecd1-4f22-a265-0d0d936d596c,drippage.tax,available,8.98,85.98,medium,low,8,namecheap,,,14/09/2026 14:34
 161034d6-cad7-426a-bfc6-ed47e7877e35,xiii.tax,available,14.99,67.49,high,low,4,namesilo,,,21/09/2026 11:34
 57440f77-8b7c-4ee9-9534-72cc254a1afe,eatable.tax,available,8.98,85.98,medium,low,7,namecheap,,,12/08/2026 18:47
+c857dc7e-69ec-4010-b973-6f94f57a2324,playhouse.tax,available,8.98,85.98,high,low,9,namecheap,,,29/09/2026 02:35
 e2844cc5-7add-40c1-bcd4-bcf32b201b2e,offline.tax,available,8.98,85.98,high,medium,8,namecheap,,,04/09/2026 01:13
 6fae94a0-4789-48bd-a561-9b05778d06a9,coalescent.tax,available,8.98,85.98,medium,low,10,namecheap,,,12/08/2026 13:51
+99fc2e67-5a0b-4b4b-aeb6-defd5c0ba133,sedgwick.tax,available,14.99,67.49,medium,low,8,namesilo,,,28/09/2026 16:41
 bc7fa1da-3bbc-4380-b2d0-5133825a7327,ackee.tax,available,8.98,85.98,medium,low,5,namecheap,,,17/09/2026 01:52
 7e570beb-ecaf-4bef-b84e-f6ec1669be41,vandyke.tax,available,14.99,67.49,medium,low,7,namesilo,,,19/09/2026 13:44
 40f92c7f-7d00-4d7f-8130-45ae072b287c,unalike.tax,available,8.98,85.98,medium,low,7,namecheap,,,12/09/2026 00:26
@@ -539,8 +586,9 @@ c679b17d-800c-4ab9-a674-63d60e9f230f,visceral.tax,available,8.98,85.98,medium,lo
 93a320f3-dd97-4983-8d26-5ae28c0b7a03,harriman.tax,available,14.99,67.49,medium,low,8,namesilo,,,21/09/2026 09:11
 3a7e431a-a85c-4d0e-843a-921c868bcbe0,singapore.tax,available,,,high,high,9,,,,
 e913c03a-4ba5-48c7-a27f-608cde6fd47b,fogged.tax,available,8.98,85.98,medium,low,6,namecheap,,,18/08/2026 09:51
+b512c60a-8094-4de1-b6a3-e9169cc0942d,reichstag.tax,available,14.99,67.49,medium,low,9,namesilo,,,28/09/2026 16:30
 2caab251-edf8-4038-bc53-1d15f7f0e26a,gooey.tax,available,8.98,85.98,medium,low,5,namecheap,,,20/08/2026 16:53
-bd0c7675-6752-4b7c-8e47-5ae274eb2c91,coolly.tax,available,14.99,,medium,low,6,name.com,,,
+bd0c7675-6752-4b7c-8e47-5ae274eb2c91,coolly.tax,available,14.99,67.49,medium,low,6,namesilo,,,28/09/2026 14:20
 34bc61f8-fb8a-417f-9cf5-45de0eaa4130,polytonal.tax,available,8.98,85.98,medium,low,9,namecheap,,,08/09/2026 23:33
 3d80f436-6fd5-4e5d-81fa-6e3ed4be26e0,rotary.tax,available,8.98,85.98,high,low,6,namecheap,,,04/09/2026 17:37
 eb27eef0-264e-42b8-ae51-1f1931dbea09,cochrane.tax,available,14.99,67.49,medium,low,8,namesilo,,,27/09/2026 01:53
@@ -561,7 +609,7 @@ b32636a7-9e4b-47be-ab1f-d4739053e775,dyke.tax,available,8.98,85.98,medium,low,4,
 49afd440-55a8-4503-a2ea-43a475d71248,concerted.tax,available,8.98,85.98,high,low,9,namecheap,,,12/08/2026 20:06
 453b869d-7660-47f3-8723-bcc8b5692444,prior.tax,available,14.99,67.49,high,low,5,namesilo,,,27/09/2026 06:07
 6fcd304b-6aeb-4d16-97a5-d97bed6a781b,retained.tax,available,8.24,55.86,high,low,8,dynadot,,,27/09/2026 13:05
-c8106765-997b-445a-b56a-7624d656a6b5,bruise.tax,available,14.99,,high,low,6,name.com,,,
+c8106765-997b-445a-b56a-7624d656a6b5,bruise.tax,available,13.5,,medium,low,6,unstoppable,,,29/09/2026 04:45
 60c8af10-a83e-413d-ac88-1c2f5006943c,mouthcare.tax,available,14.99,,medium,low,9,name.com,,,
 1c7ef881-3966-49cf-ae55-da06436bf41b,victorian.tax,available,14.99,67.49,high,low,9,namesilo,,,27/09/2026 05:38
 960dbafc-1b0f-4d6f-bf2f-5ddba1452266,adorer.tax,available,14.99,67.49,medium,low,6,namesilo,,,17/09/2026 09:45
@@ -569,20 +617,26 @@ a94dfd1a-8464-4adc-9297-e42ba65f3489,membership.tax,available,14.99,67.49,high,l
 b9712d0e-2595-442f-b1d0-d78ada911987,advisee.tax,available,8.98,85.98,medium,low,7,namecheap,,,17/09/2026 11:34
 360a9b11-2a04-4280-89ac-aa2bf16862ef,hemal.tax,available,8.98,85.98,medium,low,5,namecheap,,,20/08/2026 21:41
 5f64bdba-42a6-441d-8f44-a917e89e6d0a,ski.tax,premium,85.8,85.8,high,low,3,namecheap,,,27/09/2026 05:28
+1c69938e-a2ba-4742-b187-db32190470ee,serpent.tax,available,7.96,54.02,medium,low,7,spaceship,,,29/09/2026 01:45
 c5088744-0df0-4de8-81b1-891d8e1b19c6,quickest.tax,available,8.98,85.98,medium,low,8,namecheap,,,14/09/2026 17:48
 88ae1f51-5368-4051-a3a4-ba304de1daec,anseres.tax,available,14.99,67.49,medium,low,7,namesilo,,,19/09/2026 12:08
 c8e71bee-e2d6-4924-9e81-4b2d17a250b6,washup.tax,available,8.98,85.98,medium,low,6,namecheap,,,24/09/2026 22:42
 46316630-1a90-4fa7-8466-307a09b91801,lodged.tax,available,14.99,67.49,medium,low,6,namesilo,,,18/09/2026 14:44
 014a569f-81cf-49e7-9beb-c3eedfc46fe3,aluminous.tax,available,8.98,85.98,medium,low,9,namecheap,,,
 3eac286a-b367-466a-a72d-2b97d98a996c,inst.tax,available,8.98,85.98,high,low,4,namecheap,,,22/08/2026 07:26
+5db05f9d-311b-4f3e-8e95-7aad3ba307a3,truman.tax,available,14.99,67.49,medium,low,6,namesilo,,,28/09/2026 10:00
 5c88c385-8298-47ca-916c-0e98ab3e40f4,raffish.tax,available,14.99,92.99,medium,low,7,name.com,,,13/08/2026 17:31
 a67726e1-4fb7-47f8-8ece-c5c435775a6e,operatic.tax,available,8.98,85.98,medium,low,8,namecheap,,,04/09/2026 16:24
 e549326b-5bd1-40f4-9266-971fa79576d4,resister.tax,available,14.99,67.49,medium,low,8,namesilo,,,17/09/2026 10:48
+31e3570c-454e-4318-8222-23a1ac38eea5,grinding.tax,available,52.2,52.2,medium,low,8,cloudflare,,,28/09/2026 19:23
 7c5a4a69-b5fa-478b-a069-18b0362c5e66,streaked.tax,available,8.98,85.98,medium,low,8,namecheap,,,10/09/2026 22:16
 e382b8c3-4034-4288-9236-13f729113f2e,undyed.tax,available,8.98,85.98,medium,low,6,namecheap,,,12/09/2026 02:08
+995f1bb6-0049-4a6e-94d6-89e5fa1a5d9c,novi.tax,available,8.98,85.98,high,low,4,namecheap,,,28/09/2026 21:12
 cecf4ac0-ef8e-4d11-b488-75d7e843955e,cetaceous.tax,available,8.98,85.98,medium,low,9,namecheap,,,12/08/2026 01:04
 cbfbf947-c345-4a59-b8d7-5e617cd1363a,tasked.tax,available,14.99,67.49,medium,low,6,namesilo,,,20/09/2026 17:24
-068d0623-8e85-45fb-9623-d1a2846fab89,stick.tax,available,14.99,,high,low,5,name.com,,,
+70c10ae9-c4bc-4aa3-95e3-b5592eb85da2,minnesota.tax,available,7.96,54.02,high,low,9,spaceship,,,28/09/2026 14:20
+068d0623-8e85-45fb-9623-d1a2846fab89,stick.tax,available,14.99,67.49,high,low,5,namesilo,,,29/09/2026 00:24
+fe9543c3-6fea-4373-af4c-2fe495020a6d,henson.tax,available,8.24,54.07,medium,low,6,porkbun,,,28/09/2026 14:26
 6183b1ba-0487-4e9d-9dae-f9e9be99737d,clack.tax,available,14.99,67.49,medium,low,5,namesilo,,,23/09/2026 23:30
 3dde63da-7d96-42c6-b463-c5ed192a0201,leathery.tax,available,8.98,85.98,medium,low,8,namecheap,,,13/08/2026 01:13
 8b5b4bca-8234-4900-aeda-2d7552980464,small.tax,resell,,,high,low,5,"DNSPod, Inc.",20/02/2022 13:15,20/02/2027 13:15,26/09/2026 09:05
@@ -597,6 +651,7 @@ ffdcea01-3c31-4562-88a7-d6943271313a,lumber.tax,available,14.99,67.49,high,low,6
 cea3534e-05a3-4023-8f6f-78bcef1abed6,nmr.tax,available,14.99,67.49,high,low,3,namesilo,,,28/09/2026 06:29
 4c26eccb-4fe1-43c3-b721-e9d40e592fb4,current.tax,available,8.98,85.98,high,low,7,namecheap,,,13/08/2026 11:26
 1d3f41ed-f2e2-4a6d-869d-65ed632cb5e7,fear.tax,available,14.99,67.49,high,low,4,namesilo,,,24/09/2026 12:06
+0c1e9402-87ff-4261-b312-22cc97af14dd,ivanov.tax,available,13.5,,medium,low,6,unstoppable,,,29/09/2026 01:22
 ccb881c3-e836-4cd2-86cc-0e6257cea85d,believable.tax,available,8.98,85.98,high,low,10,namecheap,,,09/08/2026 13:01
 9ebdca3d-e08f-4993-b8ba-422c2b08bca5,named.tax,available,14.99,,high,low,5,name.com,,,
 fa6adbcb-4ac8-47f9-b741-76478e40406c,anagoge.tax,available,14.99,67.49,medium,low,7,namesilo,,,19/09/2026 01:27
@@ -616,19 +671,23 @@ c8222197-490e-4906-8bf1-915c6673f6ec,opportunity.tax,premium,242,242,high,low,11
 7f494c93-5222-4256-99a5-7c15ae38fc35,kirk.tax,available,14.99,67.49,high,low,4,namesilo,,,25/09/2026 08:51
 4bfcb093-c0bc-43c1-8862-b9a2c30f79da,madwort.tax,available,14.99,67.49,medium,low,7,namesilo,,,18/09/2026 15:25
 8f31056d-731b-4441-b434-dd38e0d8a9fb,epicurean.tax,available,8.98,85.98,high,low,9,namecheap,,,17/08/2026 10:40
+489a634a-901f-41a1-af80-7c44260bd687,noodles.tax,available,52.2,52.2,medium,low,7,cloudflare,,,28/09/2026 17:23
 eea2770f-494e-43ea-8eb1-6822af2829d5,strasbourg.tax,available,7.96,54.02,medium,low,10,spaceship,,,27/09/2026 15:59
 15ae7a2a-9838-4bd8-bc37-17b80825d46b,olden.tax,available,8.98,85.98,medium,low,5,namecheap,,,04/09/2026 02:02
 5e27d149-7b23-4440-b7f0-3eda1a696009,creativity.tax,available,8.98,85.98,high,low,10,namecheap,,,24/09/2026 19:19
 35c5bfe9-2334-4906-a4c5-9ff34a65edeb,passports.tax,available,14.99,67.49,medium,low,9,namesilo,,,20/09/2026 09:52
 d52c3263-1cc7-4cc6-a60d-fcd2190d13f9,workable.tax,available,8.98,85.98,high,low,8,namecheap,,,17/08/2026 16:53
 b7b7606c-a9dc-43d0-89c9-31b79d1822c7,frightened.tax,available,8.98,85.98,medium,low,10,namecheap,,,18/08/2026 15:37
+33043557-9586-4e86-a7de-f03521d7249d,tab.tax,resell,,,high,low,3,,,,28/09/2026 10:59
 79f7c83a-eab2-468e-8815-cbcffa805e95,supply.tax,premium,260,260,high,low,6,namecheap,,,28/09/2026 08:29
 4b0911e3-0645-498e-a87d-dcbf20798f4a,topical.tax,available,8.98,85.98,high,low,7,namecheap,,,11/09/2026 17:42
 ad68767b-1aa7-4b54-9872-34612d10eb88,abilene.tax,available,14.99,67.49,high,low,7,namesilo,,,16/09/2026 15:54
 2ea5421a-2f2a-41a6-81db-8e534febc774,crumb.tax,available,8.98,85.98,medium,low,5,namecheap,,,11/08/2026 09:20
 6733b7ee-54a5-4407-a4d3-506fc65a3220,pigs.tax,available,14.99,67.49,high,low,4,namesilo,,,25/09/2026 15:51
 1e1926db-3ad9-4a19-8b1e-b78eee7e54cc,balthasar.tax,available,14.99,67.49,high,low,9,namesilo,,,22/09/2026 00:15
+466edf59-568b-4a11-a3db-97cdfde5e7db,crib.tax,available,52.2,52.2,high,low,4,cloudflare,,,29/09/2026 00:31
 fab06db7-abcf-4d83-8473-007abab15e7e,equid.tax,available,8.98,85.98,medium,low,5,namecheap,,,17/08/2026 11:47
+0485729f-3a1f-4b4f-b95d-42a52ca9c355,drummer.tax,available,7.96,54.02,medium,low,7,spaceship,,,28/09/2026 09:32
 09bf91c7-15e2-495e-a863-9a3d5a8a4102,slavery.tax,available,8.98,85.98,high,low,7,namecheap,,,10/09/2026 10:30
 970164eb-e722-44a9-b2fb-0982dbdbd79e,reflex.tax,available,14.99,67.49,high,low,6,namesilo,,,27/09/2026 11:10
 4e490396-e232-4679-ba9d-7f755b141228,audacity.tax,available,14.99,67.49,high,low,8,namesilo,,,21/09/2026 02:47
@@ -658,7 +717,7 @@ edf44723-72c7-4c6d-af17-bb629ad84208,tamable.tax,available,8.98,85.98,medium,low
 f30c876c-e120-4f7c-8cc9-5b9a621f2110,aloneness.tax,available,8.98,85.98,medium,low,9,namecheap,,,18/09/2026 13:12
 a95f160d-3d3f-4a11-84cb-a492df8e501b,hyoid.tax,available,8.98,85.98,medium,low,5,namecheap,,,21/08/2026 16:35
 f5b327b4-4eaf-4ad6-983c-0b41fd90e145,nuke.tax,available,14.99,67.49,high,low,4,namesilo,,,21/09/2026 00:16
-0816bc69-d8d8-4015-820a-1d86eec7360a,crap.tax,available,14.99,,medium,low,4,name.com,,,
+0816bc69-d8d8-4015-820a-1d86eec7360a,crap.tax,available,7.96,54.02,medium,low,4,spaceship,,,29/09/2026 05:21
 8780ace7-d999-408d-8aeb-7e755bea34f9,spend.tax,resell,14.99,,high,low,5,"Spaceship, Inc.",27/03/2026 07:59,27/03/2027 07:59,26/09/2026 09:12
 020bb298-7643-4060-8a60-038294230877,yogi.tax,available,14.99,67.49,high,low,4,namesilo,,,23/09/2026 10:04
 4d81b4b0-3c06-446b-b565-d0111660ab2a,ingredients.tax,available,14.99,,medium,low,11,name.com,,,
@@ -666,15 +725,19 @@ f5b327b4-4eaf-4ad6-983c-0b41fd90e145,nuke.tax,available,14.99,67.49,high,low,4,n
 d33148ae-cce0-4593-8acf-13909b498375,bassoon.tax,available,14.99,67.49,medium,low,7,namesilo,,,22/09/2026 12:33
 da990101-0ed9-469a-a28b-cefce43c483b,acer.tax,available,14.99,67.49,high,low,4,namesilo,,,16/09/2026 23:32
 68873b6a-341b-480d-a81f-47fd8b75cde4,democracy.tax,available,14.99,,high,low,9,name.com,,,
+b3ebea57-6569-473e-bb8d-32639ff5be86,regrets.tax,available,14.99,67.49,medium,low,7,namesilo,,,28/09/2026 15:15
 46e02353-b0bc-449b-8a7f-967328f43533,thinkable.tax,available,8.98,85.98,high,low,9,namecheap,,,11/09/2026 13:28
 fec31153-1150-4a15-8c35-e033c0d67f29,princely.tax,available,8.98,85.98,high,low,8,namecheap,,,14/08/2026 01:00
 5609450b-eea2-436b-9493-c67f0adb3656,gail.tax,available,14.99,,high,low,4,name.com,,,
+c3775978-89db-41bb-8d69-37d36ac06cc9,lambert.tax,available,14.99,67.49,high,low,7,namesilo,,,28/09/2026 13:45
+e6f70367-3280-48c1-bdfb-77c3555217cd,achieved.tax,available,14.99,67.49,high,low,8,namesilo,,,28/09/2026 12:45
 68b4befa-3e23-426c-83b1-29eb9138d21e,dedicate.tax,available,14.99,,high,low,8,name.com,,,
 47172860-35ec-4e8b-837f-02f9d130f218,holler.tax,available,14.99,67.49,high,low,6,namesilo,,,23/09/2026 00:27
 5827eeca-43a2-43d9-a2de-6b88eea37f80,rudimentary.tax,available,14.99,,high,low,11,name.com,,,
 ac5f7ac4-1284-4c81-9e53-c387b0085697,clipboards.tax,available,14.99,92.99,medium,low,10,name.com,,,20/09/2026 11:59
 b62435da-4f54-4ed1-b2ab-ec9bbaa1db5e,bulge.tax,available,8.98,85.98,high,low,5,namecheap,,,08/09/2026 23:47
-52810536-1157-4d90-b5c7-05b9d85db3b0,somehow.tax,available,14.99,,high,low,7,name.com,,,
+6aeefe38-88ac-4bc4-bbf5-10eb8bd82dbd,humiliation.tax,available,7.96,54.02,medium,low,11,spaceship,,,28/09/2026 12:26
+52810536-1157-4d90-b5c7-05b9d85db3b0,somehow.tax,available,7.96,54.02,medium,low,7,spaceship,,,28/09/2026 15:41
 8c9cd8b4-feeb-430e-934a-4886eeda1192,lissom.tax,available,8.98,85.98,medium,low,6,namecheap,,,23/08/2026 23:41
 19ee6842-07a0-4ce3-88fa-86b68bc2f8a1,pervert.tax,available,8.98,85.98,medium,low,7,namecheap,,,23/09/2026 23:54
 b8bf1fd7-7f04-41a5-991e-84178a35b9b4,nonplus.tax,available,14.99,92.99,medium,low,7,name.com,,,21/09/2026 17:34
@@ -687,6 +750,8 @@ ac2b7e27-ff36-4379-8730-67f52de2cc5c,couch.tax,available,8.98,85.98,high,low,5,n
 a8db38de-78c1-4432-994e-fd45501049c9,fortified.tax,available,8.98,85.98,high,low,9,namecheap,,,09/08/2026 00:17
 05c11a31-ba38-4f10-ae12-865fdff5816d,welcoming.tax,available,8.98,85.98,high,low,9,namecheap,,,13/09/2026 10:14
 5bf300af-43d8-4012-abb4-cb7a50aed821,drifting.tax,available,8.98,85.98,high,low,8,namecheap,,,14/08/2026 19:13
+18918d67-57b6-4c18-8cde-4360bea846c2,tumor.tax,available,14.99,67.49,medium,low,5,namesilo,,,28/09/2026 10:32
+28a0665f-4567-440b-803b-5d21209bc10e,candidates.tax,available,7.96,54.02,low,low,10,spaceship,,,28/09/2026 17:58
 57792c6a-2f25-4f9c-8bb3-da035a141923,annelidan.tax,available,8.98,85.98,medium,low,9,namecheap,,,
 3c3fefb6-4ae8-404a-af28-39f2f6394bf9,links.tax,available,,,high,low,5,,,,
 ff86b0d3-b1fc-41b2-bc10-bec4fd822db8,island.tax,premium,118.8,118.8,high,low,6,namesilo,,,
@@ -696,6 +761,7 @@ e2634b11-aaac-454c-ac18-d616719a70e8,daunting.tax,available,14.99,92.99,medium,l
 d863b013-2a10-4ec1-b1a6-46950e025527,thereof.tax,available,14.99,67.49,medium,low,7,namesilo,,,16/09/2026 08:41
 b06b474d-3a5f-46b9-81cd-63131f960908,mesic.tax,available,8.98,85.98,medium,low,5,namecheap,,,24/08/2026 21:11
 bb2a3d14-921f-4f16-bc64-3d6da4dc82f3,designs.tax,available,14.99,67.49,high,low,7,namesilo,,,28/09/2026 04:06
+8eb3bd94-cfe1-4390-9132-a55b1f19b017,markus.tax,available,52.2,52.2,high,low,6,cloudflare,,,28/09/2026 21:58
 01517183-3df6-4c9b-b953-af1f38e73095,coefficient.tax,available,14.99,,high,low,11,name.com,,,
 b4faf532-4cce-449f-a79f-5032b41a3cc6,covert.tax,available,14.99,67.49,high,low,6,namesilo,,,24/09/2026 00:53
 525d098c-afb3-46d4-8512-a6b2b35f5e85,lanky.tax,available,8.98,85.98,medium,low,5,namecheap,,,18/08/2026 20:11
@@ -729,6 +795,9 @@ e2c3e677-b580-49da-85aa-09a54fa76018,cottage.tax,available,8.98,85.98,high,low,7
 b51196bf-4e86-4ddb-8ac6-6c0a33c20d8d,unfeigned.tax,available,8.98,85.98,medium,low,9,namecheap,,,12/09/2026 10:06
 d3fd29cd-0804-44d7-b905-3a6b85b2c069,barred.tax,available,8.98,85.98,medium,low,6,namecheap,,,08/08/2026 20:37
 0d1b4ea8-2149-4e65-8b5c-e99b69609cb2,coccoid.tax,available,8.98,85.98,medium,low,7,namecheap,,,12/08/2026 14:41
+3fa6a2d3-206c-48ad-8e29-9331552110de,leavitt.tax,available,7.96,54.02,medium,low,7,spaceship,,,29/09/2026 04:25
+b3b62ff7-2377-4224-8172-f89d8f5fc8d6,tipton.tax,available,14.99,67.49,medium,low,6,namesilo,,,29/09/2026 04:26
+68d1a188-96b1-4c14-93cf-2781c5f60ca4,recruiting.tax,available,8.24,54.07,high,low,10,porkbun,,,28/09/2026 21:30
 807b3c26-a572-49c9-9f36-b98d8a307c3b,dreamed.tax,available,8.24,55.86,medium,low,7,dynadot,,,27/09/2026 21:44
 a9cdeb0b-cf9c-495e-9f36-822c870a7186,penumbral.tax,available,8.98,85.98,medium,low,9,namecheap,,,08/09/2026 15:25
 be2a7b5a-fe0e-4648-ac1f-2b449eb8daf0,grindle.tax,available,8.98,85.98,medium,low,7,namecheap,,,18/09/2026 21:21
@@ -742,13 +811,17 @@ f7c87ba6-bedc-4f67-aebe-f3d49f9d07aa,announcer.tax,available,14.99,67.49,high,lo
 ed4e6433-c2cd-43d8-a54a-b4ac5ade9ee4,downgrade.tax,available,14.99,67.49,medium,low,9,namesilo,,,24/09/2026 23:39
 a9b61fd0-d498-451b-a26f-da8ff0a309ab,discoverer.tax,available,14.99,67.49,high,low,10,namesilo,,,20/09/2026 11:37
 7a2bd5c0-0e96-484b-8be9-3848c8a31a71,foppish.tax,available,14.99,92.99,medium,low,7,name.com,,,13/08/2026 17:05
+b6e33891-30e3-4f97-bb84-302b77c331b6,debra.tax,available,14.99,67.49,medium,low,5,namesilo,,,28/09/2026 16:29
 0a0116d8-9723-4e1e-bb4e-da4cc33dc13a,detached.tax,available,8.98,85.98,medium,low,8,namecheap,,,24/09/2026 07:07
 abca77ec-2351-404b-a3a5-e5fbc6d9b1ed,leaky.tax,available,8.98,85.98,medium,low,5,namecheap,,,22/08/2026 22:01
+d8542475-4a2f-420e-a172-c86d8698b29b,housekeeper.tax,available,52.2,52.2,high,low,11,cloudflare,,,28/09/2026 11:27
 0c85a3d4-9a0b-4019-b896-878672bd19c5,gentleman.tax,available,14.99,67.49,high,low,9,namesilo,,,25/09/2026 06:26
 a3d57a03-38eb-4743-93e8-709db2b21bf1,unfathomed.tax,available,8.98,85.98,medium,low,10,namecheap,,,12/09/2026 09:57
 572d7615-dcac-4241-be73-565a172f37f3,occurred.tax,available,14.99,67.49,medium,low,8,namesilo,,,18/09/2026 13:50
+238d7ff5-ad55-4858-b20e-9dd848d921f5,materials.tax,available,14.99,67.49,medium,low,9,namesilo,,,28/09/2026 12:42
 8e7b26e9-adc2-4c52-9011-7a996c7fc548,impress.tax,available,14.99,,high,low,7,name.com,,,
 430e08e8-4982-4f65-a6eb-d9c45fcf3b34,sacked.tax,available,14.99,67.49,medium,low,6,namesilo,,,24/09/2026 06:49
+197ea6a6-abcb-4e3b-ada6-7448e99df466,anglosaxon.tax,available,13.5,,medium,low,11,unstoppable,,,29/09/2026 02:54
 583fce23-614d-4e47-93cb-fe104e1880b9,airbrush.tax,available,14.99,67.49,high,low,8,namesilo,,,17/09/2026 23:00
 1cbf4bc0-6ac3-48be-8a94-0aaaacda622e,heterodox.tax,available,8.98,85.98,medium,low,9,namecheap,,,14/08/2026 12:37
 56ed5890-9a9a-4444-af0f-0075b29a6591,alewife.tax,available,14.99,67.49,medium,low,7,namesilo,,,18/09/2026 05:44
@@ -770,12 +843,16 @@ ddfa42e1-5cdf-4433-ae57-dded73fa2b24,accusing.tax,available,8.98,85.98,medium,lo
 3d72ba9d-344a-4cfe-a253-4dbef61dc513,mechanical.tax,available,14.99,67.49,high,low,10,namesilo,,,25/09/2026 18:43
 68374956-f759-4d76-afbb-c90db8fa15e8,unwise.tax,available,8.98,85.98,medium,low,6,namecheap,,,12/09/2026 22:42
 0853638c-483b-4364-a666-2db0e5007962,regardless.tax,available,14.99,67.49,high,low,10,namesilo,,,27/09/2026 11:13
+79ffa9e7-f89c-46f9-bb6a-782d7f03b55d,chow.tax,available,7.96,54.02,high,low,4,spaceship,,,29/09/2026 00:25
+c878974f-30ad-4710-96df-bbe2661d863d,hottest.tax,available,8.24,55.86,medium,low,7,dynadot,,,28/09/2026 13:20
+50a1c941-afba-46c0-9211-794065581161,soe.tax,available,7.96,54.02,medium,low,3,spaceship,,,28/09/2026 21:29
 eef03894-6b28-4fd0-9bbb-600cc1003e26,procedural.tax,available,8.98,85.98,high,low,10,namecheap,,,09/09/2026 02:31
 39216232-6b07-496f-8162-3e2d4c00f07b,jammed.tax,available,8.98,85.98,medium,low,6,namecheap,,,22/08/2026 12:07
 b87a5a56-bba4-4f46-8d5c-81ae0c746b5f,unfortunate.tax,available,14.99,67.49,medium,low,11,namesilo,,,26/09/2026 03:07
 698d7e53-0578-43fe-b703-ae0a7118780c,lucidly.tax,available,8.98,85.98,medium,low,7,namecheap,,,15/09/2026 12:12
 09d824aa-1305-4ee3-9d10-18b0b09594ac,alleviant.tax,available,8.98,85.98,medium,low,9,namecheap,,,04/09/2026 23:46
 d68a2bc8-6f81-40db-829b-918536639f35,sandy.tax,available,8.98,85.98,high,low,5,namecheap,,,06/08/2026 17:31
+337f39c3-0020-49ee-98dc-7e5f3045b08a,spies.tax,available,52.2,52.2,medium,low,5,cloudflare,,,28/09/2026 12:49
 37fc9c0a-3906-4cb5-82d2-d06f92c8e660,conspiracy.tax,available,14.99,,high,low,10,name.com,,,
 b1aa3b08-7e5f-4ad3-867f-7a5cf70ae46d,byrd.tax,available,14.99,67.49,high,low,4,namesilo,,,17/09/2026 08:47
 f9d5df87-4ff4-41d7-a385-30711d9ab5c8,prayed.tax,available,14.99,67.49,medium,low,6,namesilo,,,18/09/2026 02:41
@@ -784,7 +861,7 @@ f9d5df87-4ff4-41d7-a385-30711d9ab5c8,prayed.tax,available,14.99,67.49,medium,low
 683798ad-7952-44d1-b230-22c3e35c4f41,aalst.tax,available,14.99,67.49,medium,low,5,namesilo,,,16/09/2026 13:16
 27a786b3-e496-4819-9fef-62992cfaedd2,dotted.tax,available,14.99,92.99,medium,low,6,name.com,,,13/08/2026 18:28
 bc457178-2d91-4109-becd-39a436d9510d,chairperson.tax,available,14.99,,high,low,11,name.com,,,
-11058d11-e070-4607-8212-624479f3e894,either.tax,available,14.99,,medium,low,6,name.com,,,
+11058d11-e070-4607-8212-624479f3e894,either.tax,available,14.99,67.49,medium,low,6,namesilo,,,28/09/2026 14:39
 20f7e2dc-184a-4be3-b277-c88eb9d4bdf3,ocellated.tax,available,8.98,85.98,medium,low,9,namecheap,,,04/09/2026 00:29
 5315bd0c-e028-4e62-a8d0-ad0acbc0a771,archosaur.tax,available,8.98,85.98,medium,low,9,namecheap,,,06/08/2026 15:57
 12c65759-41c3-4dbb-984c-fe1bc647b617,crossing.tax,available,14.99,67.49,high,low,8,namesilo,,,27/09/2026 03:30
@@ -802,6 +879,11 @@ fb36a2be-b5ef-4eb6-9d45-e0ff6dfe536e,likes.tax,available,14.99,,medium,low,5,nam
 c600e588-be24-4c15-ba65-e5c3c8199a1a,domination.tax,available,14.99,67.49,high,low,10,namesilo,,,24/09/2026 23:26
 66d99f8d-aac3-4672-bb2b-7717f7534bf3,endogenous.tax,available,8.98,85.98,medium,low,10,namecheap,,,17/08/2026 01:15
 15ef191d-4e13-4727-a909-3b8a7bcd4a78,sudbury.tax,available,14.99,67.49,medium,low,7,namesilo,,,28/09/2026 06:48
+c7ce2758-c09a-49d6-a86c-b83ddaaa4344,reg.tax,available,13.5,,high,low,3,unstoppable,,,28/09/2026 21:01
+f8dbf9b4-15e3-48a0-a898-bb286aa062e3,agreeing.tax,available,8.98,85.98,high,low,8,namecheap,,,28/09/2026 15:41
+1482dd3d-951f-4a8d-a330-9fcfc849073a,albums.tax,available,14.99,67.49,low,low,6,namesilo,,,29/09/2026 05:39
+cdaa1aab-a174-4a22-a394-f373a99e826f,tunes.tax,available,7.96,54.02,medium,low,5,spaceship,,,28/09/2026 18:03
+b6ca72cd-d20a-40b2-8ff1-8b0d1e37f780,lsu.tax,available,7.96,54.02,high,low,3,spaceship,,,28/09/2026 21:28
 11acc05e-5534-4be9-94f3-a2b502425e53,formless.tax,available,8.98,85.98,high,low,8,namecheap,,,
 98bba065-92df-41c4-8620-f21a94614954,ambled.tax,available,14.99,67.49,medium,low,6,namesilo,,,20/09/2026 05:58
 7f863d8f-1db4-49c6-b483-f36fbfd1d22e,fruity.tax,available,8.98,85.98,high,low,6,namecheap,,,06/08/2026 21:00
@@ -815,19 +897,20 @@ d2ec64de-4447-4bd0-8b44-acc7c1d32e35,littoral.tax,available,8.98,85.98,medium,lo
 91449a89-546f-4d84-8a51-2e06b050cea3,topic.tax,available,14.99,67.49,high,low,5,namesilo,,,28/09/2026 01:44
 4ddde9e9-65fb-41df-90f0-12e44908d1e0,abeyance.tax,available,14.99,67.49,medium,low,8,namesilo,,,16/09/2026 15:20
 7d4ae966-e2cc-4529-bb25-9211077bcf4d,spanking.tax,available,8.98,85.98,high,low,8,namecheap,,,11/08/2026 04:33
-d28ec239-3346-4c80-8ba3-6e418709682e,version.tax,available,14.99,,high,low,7,name.com,,,
+29642179-6bee-40b5-a275-da0fd93601f4,tatar.tax,premium,68.51,68.51,high,low,5,spaceship,,,29/09/2026 01:41
+d28ec239-3346-4c80-8ba3-6e418709682e,version.tax,available,7.96,54.02,high,low,7,spaceship,,,28/09/2026 18:17
 841e5e14-8942-4913-b4d4-fa5ed8bd959c,colourize.tax,available,8.98,85.98,medium,low,9,namecheap,,,12/08/2026 17:40
 a0395be0-bd4d-472f-87d0-aafae8e13452,badinage.tax,available,14.99,67.49,medium,low,8,namesilo,,,21/09/2026 17:13
-8c490305-7562-4123-9098-f13951af73cd,maxim.tax,available,14.99,,high,low,5,name.com,,,
+8c490305-7562-4123-9098-f13951af73cd,maxim.tax,available,14.99,67.49,high,low,5,namesilo,,,28/09/2026 23:52
 b9282e79-a53a-403d-a672-55ea3f286dc2,rickety.tax,available,14.99,92.99,medium,low,7,name.com,,,13/08/2026 20:34
-e3e48eb4-3e5d-4a88-9ebe-bf4158aa8e3a,society.tax,available,14.99,,high,low,7,name.com,,,
+e3e48eb4-3e5d-4a88-9ebe-bf4158aa8e3a,society.tax,available,8.24,55.86,high,low,7,dynadot,,,29/09/2026 01:43
 427d5c74-da26-4d2f-b5c8-d481f6049044,profuse.tax,available,8.98,85.98,high,low,7,namecheap,,,24/08/2026 11:47
 d27abb73-7a8b-4d37-b730-0c5e5b0963aa,perceiving.tax,available,14.99,,high,low,10,name.com,,,
 cf294e90-394c-43f9-877b-13158d996c6d,ritual.tax,available,8.98,85.98,high,low,6,namecheap,,,09/09/2026 18:01
 7b997bfb-fddf-42d1-87cd-61f12e15ae8f,monkey.tax,resell,,,high,low,6,"DNSPod, Inc.",12/02/2025 15:15,12/02/2027 15:15,26/09/2026 07:37
-04f463a4-7ce8-4d83-850e-cfb0f8c20fc9,basketball.tax,premium,118.8,118.8,high,low,10,namesilo,,,
+04f463a4-7ce8-4d83-850e-cfb0f8c20fc9,basketball.tax,premium,118.8,118.8,high,low,10,namesilo,,,29/09/2026 01:27
 15a3a529-b35f-4604-93bf-3575dbc5ad12,pocketbook.tax,available,14.99,67.49,high,low,10,namesilo,,,23/09/2026 16:19
-794fb1b2-b311-4fcc-884a-e74415664ff5,literally.tax,available,14.99,,high,low,9,name.com,,,
+794fb1b2-b311-4fcc-884a-e74415664ff5,literally.tax,available,13.5,,medium,low,9,unstoppable,,,28/09/2026 16:10
 bfadb3da-d889-48a8-bda6-24f74eba05ec,stupefying.tax,available,8.98,85.98,low,low,10,namecheap,,,10/09/2026 18:10
 2ac8c803-f68d-4212-b4d0-c3566c864e89,boyle.tax,available,14.99,92.99,high,low,5,name.com,,,25/09/2026 02:02
 757d1f4b-4bf2-420c-b2af-1da2cb13122c,epical.tax,available,8.98,85.98,medium,low,6,namecheap,,,17/08/2026 10:29
@@ -835,9 +918,11 @@ c665a400-b524-4b7c-b287-d2dcaeecc68e,investors.tax,available,8.98,85.98,high,low
 920d5316-7b6f-4c2a-a2f3-0884f10eefef,deficit.tax,available,14.99,,high,low,7,name.com,,,
 26520676-30ef-4ee3-b3b8-9ef1beb80843,lawful.tax,available,8.98,85.98,high,low,6,namecheap,,,22/08/2026 21:21
 8438bcc1-0324-4b34-bf01-f732d5c4da71,aerospace.tax,available,14.99,67.49,high,low,9,namesilo,,,17/09/2026 13:17
+d0763e1b-3786-4957-b790-86c60220418d,cio.tax,available,13.5,,high,low,3,unstoppable,,,28/09/2026 18:44
 dd91ac71-1032-4ccd-aa29-8971ed39d67b,congruous.tax,available,8.98,85.98,medium,low,9,namecheap,,,12/08/2026 21:56
 9cc44ea2-c484-42a0-a581-841f3b6fb627,manky.tax,available,8.98,85.98,medium,low,5,namecheap,,,24/08/2026 15:12
 345a2ed3-d41d-429a-8367-fd047b6393e9,dakar.tax,available,14.99,,high,low,5,name.com,,,
+38348d06-843d-467d-80df-3be5d16ae8af,listing.tax,available,8.98,85.98,high,low,7,namecheap,,,29/09/2026 01:23
 00b7c41b-3e43-4901-874a-f6389db69c04,aggregates.tax,available,52.2,52.2,low,low,10,cloudflare,,,28/09/2026 08:51
 9f6e541e-b05c-4fc9-bb4f-02fa31b1133b,dropped.tax,available,8.98,85.98,medium,low,7,namecheap,,,25/09/2026 20:16
 4d83ed0b-fb5e-4383-a583-dd425f9c2da9,alters.tax,available,14.99,67.49,medium,low,6,namesilo,,,20/09/2026 13:23
@@ -848,6 +933,7 @@ e234228d-5aa3-41ed-8497-b2159ce3fbc5,antagonist.tax,available,14.99,67.49,high,l
 67596cd3-b8e0-4bef-8019-e060fb101698,anther.tax,available,14.99,67.49,medium,low,6,namesilo,,,19/09/2026 13:08
 d1a678ce-31c8-4d8e-8407-bc4393af860a,expense.tax,available,14.99,67.49,high,low,7,namesilo,,,24/09/2026 22:30
 055057a6-d20a-4b27-a5c3-d5f76f8fb2eb,pivot.tax,available,8.98,85.98,high,low,5,namecheap,,,25/09/2026 12:55
+ce9ef42f-c84c-4a8b-b4ad-f25dba7fa993,herod.tax,available,7.96,54.02,medium,low,5,spaceship,,,28/09/2026 14:26
 007a38ba-f385-473c-9e75-c30249c96936,plates.tax,available,14.99,67.49,medium,low,6,namesilo,,,27/09/2026 02:22
 6432da81-6bdc-461a-9f69-9e7b512cde4c,gag.tax,available,14.99,,high,low,3,name.com,,,
 39d861b0-421f-4adf-85cc-431f92955393,bathsheba.tax,available,14.99,67.49,medium,low,9,namesilo,,,22/09/2026 13:52
@@ -882,6 +968,7 @@ c683900b-73a1-464b-94c3-c26702068095,sparely.tax,available,14.99,67.49,medium,lo
 b1669112-d623-4933-8d63-fd0da802007e,bordeaux.tax,available,8.98,85.98,high,low,8,namecheap,,,24/09/2026 07:22
 6555d94f-c4f8-4b7b-9aff-a27dda885e04,idiomatic.tax,available,8.98,85.98,medium,low,9,namecheap,,,21/08/2026 18:07
 b2d7da8d-d5cc-4727-b54a-44143ff3da6c,unfretted.tax,available,8.98,85.98,medium,low,9,namecheap,,,12/09/2026 10:45
+6ceefe2d-f0a6-4d87-988a-01edc5eddcbb,jimmie.tax,available,14.99,67.49,medium,low,6,namesilo,,,28/09/2026 17:18
 67d116c3-8165-4b57-bcb9-c217b0c7bc05,ricefield.tax,available,14.99,,medium,low,10,name.com,,,
 2407d3e4-c24f-4028-b76d-ecd84091c27d,sea.tax,premium,242,242,high,low,3,namesilo,,,
 ce9002d4-8022-4428-854b-cffde47b8745,undetected.tax,available,8.98,85.98,medium,low,10,namecheap,,,12/09/2026 07:57
@@ -900,6 +987,7 @@ bfe19a63-1d90-490d-8f2c-abea991f740a,smashing.tax,available,8.98,85.98,high,low,
 7beeb9de-7536-4101-9bb3-950d951c62eb,walton.tax,available,14.99,67.49,high,low,6,namesilo,,,25/09/2026 05:07
 b795b1f6-3b93-4cc7-8cbd-c40aeb3fbdd1,corsican.tax,available,8.98,85.98,high,low,8,namecheap,,,13/08/2026 02:33
 ac85bcf6-2bbc-4378-9af7-f2eeade3f379,derive.tax,available,14.99,,high,low,6,name.com,,,
+b8b955aa-ff65-404e-94fe-c6af8e4c4dfe,pupil.tax,available,52.2,52.2,high,low,5,cloudflare,,,28/09/2026 09:33
 f8991fda-44cc-4f55-9f3e-270881cce8ca,admissible.tax,available,8.98,85.98,high,low,10,namecheap,,,
 a48f82da-5f28-40e8-9ff1-b134ef7f61c2,unreported.tax,premium,128.7,128.7,medium,low,10,namecheap,,,12/09/2026 18:19
 084938ab-ec53-4585-bff9-e244de456e27,tires.tax,premium,118.8,118.8,medium,low,5,namesilo,,,27/09/2026 10:07
@@ -911,91 +999,3 @@ a48f82da-5f28-40e8-9ff1-b134ef7f61c2,unreported.tax,premium,128.7,128.7,medium,l
 2f478788-8069-49b7-9af5-e0a6245558ee,bolshie.tax,available,8.98,85.98,medium,low,7,namecheap,,,10/08/2026 17:55
 5ff6ca8b-8418-41ba-a38a-d304150537a1,hardened.tax,available,8.98,85.98,high,low,8,namecheap,,,11/08/2026 20:01
 a214c7ee-c092-43b7-8867-bced0cee4554,amnesic.tax,available,8.98,85.98,medium,low,7,namecheap,,,
-02ddd319-ef31-4b6a-81f4-86b9f1d30be5,visual.tax,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",06/02/2026 15:15,06/02/2027 15:15,26/09/2026 10:01
-13443e2b-9b63-4b85-8cc7-fd4ce205d275,straw.tax,available,8.98,85.98,high,low,5,namecheap,,,10/09/2026 22:03
-e2c850b4-f3e2-4d3e-b0e6-87469c5c5dd2,cowardly.tax,available,8.98,85.98,medium,low,8,namecheap,,,13/08/2026 04:07
-1399575d-1549-4b16-82f9-ad36175fa5ca,opened.tax,available,8.98,85.98,high,low,6,namecheap,,,04/09/2026 16:13
-e683d343-82ca-43c5-a257-bf002479ae83,arendt.tax,available,14.99,67.49,medium,low,6,namesilo,,,20/09/2026 03:43
-60c8e8ef-92ab-4eb4-9031-98deef0e80ee,wheat.tax,available,14.99,67.49,high,low,5,namesilo,,,28/09/2026 06:34
-3079a7d0-e0a2-4697-8444-ecdd307795af,agaragar.tax,available,14.99,92.99,medium,low,9,name.com,,,17/09/2026 16:15
-7c96ca8c-89fc-48c8-b238-e24966d69b68,argive.tax,available,8.98,85.98,medium,low,6,namecheap,,,06/08/2026 18:27
-1da6a68c-293e-4abf-a004-d12d6d279b07,opined.tax,available,13.5,,low,low,6,unstoppable,,,28/09/2026 09:10
-db083388-206a-4ed0-934e-132995c94ced,engineer.tax,premium,102.67,102.67,high,low,8,spaceship,,,28/09/2026 02:49
-6860a3f5-75d6-4933-879f-a7e2e48e9ac2,flaxseed.tax,available,14.99,67.49,high,low,9,namesilo,,,16/09/2026 10:28
-d630d123-f1c7-48cb-a501-83650b57a90a,lividly.tax,available,8.98,85.98,low,low,7,namecheap,,,15/09/2026 12:36
-4d97c3eb-2ccb-4d47-9d7a-02358a454633,baneful.tax,available,8.98,85.98,low,low,7,namecheap,,,08/08/2026 09:44
-ac86c8a3-c162-40d0-ac0c-6e9c5395b09f,beatific.tax,available,8.98,85.98,high,low,8,namecheap,,,
-ab5aeb51-f907-4d1f-89b9-b0c17dbe549d,nicky.tax,available,14.99,,high,low,5,name.com,,,
-7a176a59-cbfc-417e-9eeb-30ea410ab544,breathless.tax,available,8.98,85.98,medium,low,10,namecheap,,,11/08/2026 03:23
-064c633a-3185-4408-af3d-2ca0a0e659a2,blacking.tax,available,14.99,67.49,medium,low,8,namesilo,,,24/09/2026 02:49
-6f886705-f4d3-48f1-988b-fe593385d8cf,infuriated.tax,available,8.98,85.98,medium,low,10,namecheap,,,
-54f5f203-ec6f-44fb-9216-ad4610cae7b2,enormously.tax,available,8.98,85.98,medium,low,10,namecheap,,,14/09/2026 15:47
-8b5d3d58-ea8e-4854-9a82-14a30c8d63c5,frenzy.tax,available,8.98,85.98,high,low,6,namecheap,,,24/09/2026 21:40
-57bd5689-13df-4cdf-b1a1-57b442622bcc,nonverbal.tax,available,8.98,85.98,medium,low,9,namecheap,,,03/09/2026 21:00
-be5cee8d-ff72-43a8-aedc-3f675306a0c6,antilles.tax,available,14.99,67.49,medium,low,8,namesilo,,,19/09/2026 14:37
-a711f481-fe59-492a-82c5-becc7f58490b,stretchout.tax,available,8.98,85.98,medium,low,11,namecheap,,,17/09/2026 05:03
-39c87c78-1498-4f7b-8e8a-5d957f1f84c0,phoney.tax,available,8.98,85.98,medium,low,6,namecheap,,,08/08/2026 23:14
-d12e729f-5a50-4e41-9c6c-7cac92918816,formidable.tax,available,8.98,85.98,high,low,10,namecheap,,,18/08/2026 12:12
-c09d0bad-07a3-4059-a72b-037eaff7509c,bullet.tax,available,14.99,,high,low,6,name.com,,,
-72734925-6e3f-4e16-bf5b-1da98676db23,waterfowl.tax,available,14.99,67.49,high,low,9,namesilo,,,19/09/2026 17:39
-c00573e9-2509-467c-b3c0-e4aee2c9e94c,assault.tax,available,14.99,67.49,medium,low,7,namesilo,,,20/09/2026 15:48
-1fc00f02-0c65-4210-87b2-0682258059f7,logistics.tax,available,14.99,67.49,high,low,9,namesilo,,,28/09/2026 03:58
-b1075f2d-214e-4ea2-852f-a2436abc0d3e,rhenium.tax,available,14.99,67.49,medium,low,7,namesilo,,,20/09/2026 23:48
-ed8cae83-0049-48cc-a4a3-0e74456ab6f3,ganja.tax,available,14.99,,high,low,5,name.com,,,
-cc6194ed-dc48-4379-9186-524cf9a342e7,benthic.tax,available,8.98,85.98,medium,low,7,namecheap,,,09/08/2026 14:45
-e2643c8f-f530-4d52-a282-cbde2e266fb2,stertorous.tax,available,8.98,85.98,low,low,10,namecheap,,,10/09/2026 20:21
-08906a2d-5435-4c76-8729-1ee2d0b42c8f,aside.tax,available,7.96,54.02,medium,low,5,spaceship,,,28/09/2026 04:56
-863cc01f-4dc9-41ac-a446-e6c6ef32e23b,analecta.tax,available,14.99,92.99,medium,low,8,name.com,,,19/09/2026 01:47
-749df0bd-4027-4897-a4e4-a79b6a1ddaed,boy.tax,available,14.99,,high,low,3,name.com,,,
-f91c1647-5d8f-4046-b4d9-031278e642ee,trimly.tax,available,14.99,67.49,medium,low,6,namesilo,,,16/09/2026 09:29
-0b6236ee-6919-44aa-82e0-1c7b51e9e3e9,promises.tax,available,8.98,85.98,medium,low,8,namecheap,,,27/09/2026 03:01
-909f7f1c-d900-4a62-ba95-2c2b8a3b7496,bistro.tax,available,14.99,67.49,high,low,6,namesilo,,,23/09/2026 22:13
-943bb5d6-00ff-45b4-97f4-7639445c68b4,basswood.tax,available,14.99,67.49,medium,low,8,namesilo,,,22/09/2026 12:34
-d4024ba6-de7a-4d35-8cff-2d0d5d3e950d,takeaways.tax,available,14.99,67.49,medium,low,9,namesilo,,,18/09/2026 05:02
-55cf83b1-c699-4072-91f7-8d9c8b325196,archil.tax,available,8.98,85.98,medium,low,6,namecheap,,,20/09/2026 02:06
-ea6d9088-de76-484b-9e7e-ca744bd2fd5f,amusive.tax,available,8.98,85.98,medium,low,7,namecheap,,,
-c445c621-a6f4-4187-8116-406161c073be,broken.tax,available,14.99,67.49,high,low,6,namesilo,,,23/09/2026 09:56
-12240310-583d-4dcb-bb3b-7369520ce464,amphibian.tax,available,8.98,85.98,high,low,9,namecheap,,,
-0554cced-67d4-4c37-aca2-322f4b50123f,torn.tax,available,14.99,67.49,high,low,4,namesilo,,,25/09/2026 16:39
-5be86325-05b1-474e-9c14-38f1aebec6ae,harijan.tax,available,8.98,85.98,medium,low,7,namecheap,,,12/09/2026 21:38
-368ff25e-9052-4213-bc52-10a5b09e4a3c,lille.tax,available,8.98,85.98,high,low,5,namecheap,,,28/09/2026 06:10
-68269715-9c36-4fff-9a1d-a80eb800289a,shirley.tax,available,14.99,67.49,high,low,7,namesilo,,,25/09/2026 13:56
-b7e59159-ef3e-450e-8ecb-90f4c2555060,piping.tax,available,8.98,85.98,medium,low,6,namecheap,,,10/09/2026 19:43
-9708516d-ebe4-4127-b98c-f01348197215,debauch.tax,available,8.98,85.98,medium,low,7,namecheap,,,13/08/2026 02:20
-457dbaa4-425f-4c53-85d7-5b3e3feb5bcc,algid.tax,available,8.98,85.98,medium,low,5,namecheap,,,
-80e5a687-6e0e-44a0-8024-c4d740291a50,lxi.tax,available,8.98,85.98,medium,low,3,namecheap,,,
-0a08c94c-cf59-4a24-92df-15f2579a5261,damn.tax,available,14.99,67.49,high,low,4,namesilo,,,22/09/2026 00:35
-2384d544-143a-493a-8a70-21d1623837cd,subscript.tax,available,8.98,85.98,high,low,9,namecheap,,,11/09/2026 00:43
-cd28d2b6-c688-440d-8bbc-c3a84ca0471f,exultant.tax,available,8.98,85.98,high,low,8,namecheap,,,17/08/2026 19:42
-f875b2ca-62ce-47b5-acd2-4a1d8962d885,tellingly.tax,available,8.98,85.98,medium,low,9,namecheap,,,16/09/2026 08:14
-a00da3c9-9bdb-4b1b-8d10-0733899616af,sizzling.tax,available,8.98,85.98,high,low,8,namecheap,,,10/09/2026 09:17
-af059052-17d8-4e81-aa98-8bd049978d02,sister.tax,available,14.99,67.49,high,low,6,namesilo,,,26/09/2026 00:18
-48ab4ec7-eba9-49c0-be32-5898a226990a,bromic.tax,available,8.98,85.98,medium,low,6,namecheap,,,11/08/2026 05:32
-7a2dea2d-2462-4e44-8076-cc5c4562af30,expectations.tax,available,14.99,67.49,medium,low,12,namesilo,,,28/09/2026 08:38
-040df6b7-724b-42fe-889a-9ad320ae3a36,placed.tax,available,14.99,67.49,high,low,6,namesilo,,,25/09/2026 14:13
-784d853b-2463-46b4-8748-9da749f6b0d0,fortemente.tax,available,8.98,85.98,medium,low,10,namecheap,,,18/08/2026 12:36
-fd693cad-41c0-4650-b26c-ba2ce7826347,woolen.tax,available,8.98,85.98,medium,low,6,namecheap,,,13/09/2026 13:13
-a926e66c-cdb9-4442-a513-6f1c67549ca2,ourselves.tax,available,14.99,67.49,medium,low,9,namesilo,,,27/09/2026 08:55
-d4d233c7-e4e3-4c0f-952c-c40ec6c2145d,acarus.tax,available,8.98,85.98,medium,low,6,namecheap,,,16/09/2026 21:38
-b98c3e32-f1df-4eb2-a1f7-d7b45a5f3af7,optimally.tax,available,8.98,85.98,medium,low,9,namecheap,,,15/09/2026 18:05
-8a0567ed-4784-40c9-b6e4-41c12112033d,anarchic.tax,available,8.98,85.98,medium,low,8,namecheap,,,
-c65be100-4c9f-41de-a85e-c88c98caab3d,aldebaran.tax,available,14.99,92.99,medium,low,9,name.com,,,18/09/2026 04:20
-e343a94e-3c43-41e1-ae98-22ae56e57e0d,cavalier.tax,available,8.98,85.98,high,low,8,namecheap,,,11/08/2026 22:48
-db9a8df0-3700-42c7-ae8e-7bf6a224eb99,encased.tax,available,8.98,85.98,medium,low,7,namecheap,,,11/08/2026 20:06
-fe7c60ee-fb1c-47b6-991b-98101ac85838,bother.tax,available,14.99,67.49,medium,low,6,namesilo,,,24/09/2026 07:29
-2d771075-e931-4b1d-930f-c42be1cc8fa2,allusive.tax,available,8.98,85.98,medium,low,8,namecheap,,,
-99728461-5638-49b4-989a-de59f5060bfc,alidad.tax,available,14.99,92.99,medium,low,6,name.com,,,18/09/2026 07:31
-ac2f25a4-90d1-4edd-b55e-55e815add86d,semiliquid.tax,available,8.98,85.98,medium,low,10,namecheap,,,10/09/2026 03:07
-2e130322-fc16-4c53-9ec4-ae4340e17bbe,apoidea.tax,available,8.98,85.98,medium,low,7,namecheap,,,19/09/2026 18:38
-ff14c5ba-0a93-41fd-8acf-3248d40a3845,recusant.tax,available,8.98,85.98,medium,low,8,namecheap,,,14/08/2026 12:28
-2ceb4047-4cf4-457f-9f39-702b2548eec8,trna.tax,available,14.99,67.49,high,low,4,namesilo,,,16/09/2026 22:03
-c3fab77e-5d4c-4709-afc5-84f0f988d522,chimeric.tax,available,8.98,85.98,medium,low,8,namecheap,,,12/08/2026 05:37
-d17e3e05-d628-4568-bc76-7f305f99bd02,caesium.tax,available,14.99,67.49,medium,low,7,namesilo,,,20/09/2026 23:16
-ee31ec2d-ed5d-4513-967c-d3dd08aca304,affluence.tax,available,14.99,,high,low,9,name.com,,,
-a0b72ee3-c610-41f7-93f1-5422bc55a053,angel.tax,resell,,,high,low,5,"DNSPod, Inc.",22/06/2025 15:15,22/06/2027 15:15,26/09/2026 03:52
-0b159f32-c351-422e-9ef5-7268719bcc4f,archetypal.tax,available,8.98,85.98,medium,low,10,namecheap,,,06/08/2026 15:32
-de9fdccf-53cf-4bff-b294-e00096125a5e,salted.tax,available,8.98,85.98,high,low,6,namecheap,,,11/08/2026 04:21
-dd11afb5-cc19-4851-8782-b27d252cee5b,contracted.tax,available,14.99,67.49,medium,low,10,namesilo,,,23/09/2026 22:26
-1ccf313a-c12c-49df-bcba-d48933aa65d0,hobble.tax,available,8.98,85.98,medium,low,6,namecheap,,,23/08/2026 13:26
-f20edc13-ede8-468c-9d2a-02cd1be9561c,attalea.tax,available,14.99,67.49,medium,low,7,namesilo,,,21/09/2026 01:14
-e73bdda1-2486-4437-bc70-4de091960040,lawrencium.tax,available,14.99,67.49,medium,low,10,namesilo,,,20/09/2026 22:00
